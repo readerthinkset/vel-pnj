@@ -1,4 +1,40 @@
 {
-  "phrases": [],
-  "last_updated": null
+  "phrases": [
+    {
+      "english": "I choose you, every single day.",
+      "punjabi": "ਮੈਂ ਹਰ ਦਿਨ ਤੁਹਾਨੂੰ ਚੁਣਦਾ",
+      "transliteration": "Main har din tuhānūṁ chunḍā/chunḍī hāṁ.",
+      "category": "Love",
+      "generated_at": "2026-11-10T08:22:33.481630"
+    },
+    {
+      "english": "Your smile makes my day brighter.",
+      "punjabi": "ਤੁਹਾਡੀ ਮੁਸਕਾਨ ਮੇਰਾ ਦਿਨ ਚਮਕਾਉਂਦੀ ਹੈ।",
+      "transliteration": "Tuhāḍī muskhān merā din camkāuṇdī hai.",
+      "category": "Love",
+      "generated_at": "2026-11-10T08:22:33.481641"
+    },
+    {
+      "english": "I miss you, right now.",
+      "punjabi": "ਮੈਨੂੰ ਹੁਣੇ ਤੇਰੀ ਬਹੁਤ ਯਾਦ ਆਉਂਦੀ ਹੈ।",
+      "transliteration": "Mainū hune terī bahut yād āuṇdī hai.",
+      "category": "Love",
+      "generated_at": "2026-11-10T08:22:33.481643"
+    },
+    {
+      "english": "You feel like home to me.",
+      "punjabi": "ਤੂੰ ਮੇਰੇ ਲਈ ਘਰ ਵਰਗਾ ਹੈ।",
+      "transliteration": "Tū mere la'ī ghar vargā hai.",
+      "category": "Love",
+      "generated_at": "2026-11-10T08:22:33.481644"
+    },
+    {
+      "english": "I love your voice, so much.",
+      "punjabi": "ਮੈਨੂੰ ਤੇਰੀ ਆਵਾਜ਼ ਬਹੁਤ ਪਸੰਦ ਹੈ।",
+      "transliteration": "Mainū terī āvāz bahut pasand hai.",
+      "category": "Love",
+      "generated_at": "2026-11-10T08:22:33.481646"
+    }
+  ],
+  "last_updated": "2026-11-10T08:22:33.481648"
 }
