@@ -104,7 +104,42 @@
       "transliteration": "Main panjabi sikhṇ di koshish kar reha haan,",
       "category": "Purpose",
       "generated_at": "2026-11-10T20:40:43.456116"
+    },
+    {
+      "english": "Can I use this Wi‑Fi password?",
+      "punjabi": "ਕੀ ਮੈਂ ਇਹ ਵਾਈ-ਫਾਈ ਪਾਸਵਰਡ ਵਰਤ ਸਕਦਾ ਹਾਂ?",
+      "transliteration": "Ki main eh vaai-faai paasvard varat sakda haan?",
+      "category": "Technology",
+      "generated_at": "2026-11-10T22:10:15.018546"
+    },
+    {
+      "english": "My phone is updating right now.",
+      "punjabi": "ਮੇਰਾ ਫੋਨ ਹੁਣ ਅਪਡੇਟ ਹੋ ਰਿਹਾ ਹੈ।",
+      "transliteration": "Mera fon hun update ho riha hai.",
+      "category": "Technology",
+      "generated_at": "2026-11-10T22:10:15.018557"
+    },
+    {
+      "english": "Where’s the charger for this laptop?",
+      "punjabi": "ਇਸ ਲੈਪਟਾਪ ਲਈ ਚਾਰਜਰ ਕਿੱਥੇ ਹੈ?",
+      "transliteration": "Es laptop layi charger kithhe hai?",
+      "category": "Technology",
+      "generated_at": "2026-11-10T22:10:15.018559"
+    },
+    {
+      "english": "Please restart the app, slowly.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਐਪ ਰੀਸਟਾਰਟ ਕਰੋ, ਹੌਲੀ।",
+      "transliteration": "Kirpa karke app restart karo, haulee.",
+      "category": "Technology",
+      "generated_at": "2026-11-10T22:10:15.018560"
+    },
+    {
+      "english": "The video is buffering again.",
+      "punjabi": "ਵੀਡੀਓ ਫਿਰ ਬਫਰ ਹੋ ਰਹੀ ਹੈ।",
+      "transliteration": "Video phir buffer ho rahi hai.",
+      "category": "Technology",
+      "generated_at": "2026-11-10T22:10:15.018562"
     }
   ],
-  "last_updated": "2026-11-10T20:40:43.456118"
+  "last_updated": "2026-11-10T22:10:15.018564"
 }
