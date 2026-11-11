@@ -209,7 +209,42 @@
       "transliteration": "Jadōṁ uljhaṇ hovē, puḛho te saaf karo.",
       "category": "Wisdom",
       "generated_at": "2026-11-11T03:35:09.325039"
+    },
+    {
+      "english": "Look at that cat, it’s running.",
+      "punjabi": "ਉਹ ਬਿੱਲੀ ਵੇਖੋ, ਦੌੜ ਰਹੀ ਹੈ।",
+      "transliteration": "Oh billī vekho, dauṛ rahī hai.",
+      "category": "Animals",
+      "generated_at": "2026-11-11T18:57:54.911272"
+    },
+    {
+      "english": "My dog is barking outside, again.",
+      "punjabi": "ਮੇਰਾ ਕੁੱਤਾ ਬਾਹਰ ਭੌਂਕ ਰਿਹਾ ਹੈ, ਫਿਰ।",
+      "transliteration": "Mērā kuṭā bāhar bhauṅk rahā hai, phir.",
+      "category": "Animals",
+      "generated_at": "2026-11-11T18:57:54.911284"
+    },
+    {
+      "english": "That bird is singing so beautifully.",
+      "punjabi": "ਉਹ ਪੰਛੀ ਇੰਨਾ ਸੋਹਣਾ ਗਾ ਰਿਹਾ ਹੈ।",
+      "transliteration": "Oh paṅchī iṇnā sohṇā gā rahā hai.",
+      "category": "Animals",
+      "generated_at": "2026-11-11T18:57:54.911286"
+    },
+    {
+      "english": "The horse looks calm, come closer.",
+      "punjabi": "ਘੋੜਾ ਸ਼ਾਂਤ ਲੱਗ ਰਿਹਾ ਹੈ, ਨੇੜੇ ਆਓ।",
+      "transliteration": "Ghoṛā shānt lagg rahā hai, nēṛē āo.",
+      "category": "Animals",
+      "generated_at": "2026-11-11T18:57:54.911288"
+    },
+    {
+      "english": "Please don’t scare the cow.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਗਾਂ ਨੂੰ ਡਰਾਉ ਨਾ।",
+      "transliteration": "Kirpā karke gā̃ nū̃ ḍarāo nā.",
+      "category": "Animals",
+      "generated_at": "2026-11-11T18:57:54.911290"
     }
   ],
-  "last_updated": "2026-11-11T03:35:09.325041"
+  "last_updated": "2026-11-11T18:57:54.911292"
 }
