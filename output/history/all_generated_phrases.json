@@ -279,7 +279,42 @@
       "transliteration": "Rujhe ho ke vī dayālū rahō.",
       "category": "Positive Life",
       "generated_at": "2026-11-11T20:59:30.751562"
+    },
+    {
+      "english": "I checked my bank balance today.",
+      "punjabi": "ਮੈਂ ਅੱਜ ਆਪਣਾ ਬੈਂਕ ਬੈਲੈਂਸ ਚੈਕ ਕੀਤਾ।",
+      "transliteration": "Main ajj apṇā baiṅk bai-lains chek kita.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T23:19:29.006110"
+    },
+    {
+      "english": "How much is the monthly rent?",
+      "punjabi": "ਮਹੀਨਾਵਾਰ ਕਿਰਾਇਆ ਕਿੰਨਾ ਹੈ?",
+      "transliteration": "Mehīnāvār kirāyā kiṇā hai?",
+      "category": "Finance",
+      "generated_at": "2026-11-11T23:19:29.006125"
+    },
+    {
+      "english": "Please send the invoice copy.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਇਨਵੌਇਸ ਦੀ ਕਾਪੀ ਭੇਜੋ।",
+      "transliteration": "Kirpā karke invāis dī kopī bhejo.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T23:19:29.006127"
+    },
+    {
+      "english": "I need a receipt for this payment.",
+      "punjabi": "ਇਸ ਭੁਗਤਾਨ ਲਈ ਮੈਨੂੰ ਰਸੀਦ ਚਾਹੀਦੀ ਹੈ।",
+      "transliteration": "Is bhugatān laī mainū rasīd chāhīdī hai.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T23:19:29.006129"
+    },
+    {
+      "english": "The card payment went through.",
+      "punjabi": "ਕਾਰਡ ਨਾਲ ਭੁਗਤਾਨ ਹੋ ਗਿਆ।",
+      "transliteration": "Kārd nāl bhugatān ho giā.",
+      "category": "Finance",
+      "generated_at": "2026-11-11T23:19:29.006130"
     }
   ],
-  "last_updated": "2026-11-11T20:59:30.751563"
+  "last_updated": "2026-11-11T23:19:29.006133"
 }
