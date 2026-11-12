@@ -349,7 +349,42 @@
       "transliteration": "Gahirē sās lō, ṭhīk hai?",
       "category": "Health",
       "generated_at": "2026-11-12T01:46:29.571527"
+    },
+    {
+      "english": "I’m learning Punjabi, bit by bit,",
+      "punjabi": "ਮੈਂ ਪੰਜਾਬੀ ਸਿੱਖ ਰਿਹਾ ਹਾਂ, ਹੌਲੀ-ਹੌਲੀ,",
+      "transliteration": "Main panjaabi seekh raha haan, haulee-haulee,",
+      "category": "Growth",
+      "generated_at": "2026-11-12T04:43:34.204204"
+    },
+    {
+      "english": "Today I practiced, that feels good.",
+      "punjabi": "ਅੱਜ ਮੈਂ ਅਭਿਆਸ ਕੀਤਾ, ਚੰਗਾ ਲੱਗਿਆ।",
+      "transliteration": "Aaj main abhyaas keeta, changa laggiya.",
+      "category": "Growth",
+      "generated_at": "2026-11-12T04:43:34.204215"
+    },
+    {
+      "english": "Please speak slowly, I’m trying.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਹੌਲੀ ਬੋਲੋ, ਮੈਂ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਿਹਾ ਹਾਂ।",
+      "transliteration": "Kirpa karke haulee bolo, main koshish kar reha haan.",
+      "category": "Growth",
+      "generated_at": "2026-11-12T04:43:34.204217"
+    },
+    {
+      "english": "Sorry, I didn’t understand that.",
+      "punjabi": "ਮਾਫ ਕਰਨਾ, ਮੈਨੂੰ ਇਹ ਸਮਝ ਨਹੀਂ ਆਇਆ।",
+      "transliteration": "Maaf karna, mainu eh samajh nahi aaya.",
+      "category": "Growth",
+      "generated_at": "2026-11-12T04:43:34.204219"
+    },
+    {
+      "english": "Can you repeat that once more, please?",
+      "punjabi": "ਕੀ ਤੁਸੀਂ ਇਹ ਇਕ ਵਾਰ ਹੋਰ ਦੁਹਰਾ ਸਕਦੇ ਹੋ, ਕਿਰਪਾ ਕਰਕੇ?",
+      "transliteration": "Ki tusi eh ik vaar hor duhra sakde ho, kirpa karke?",
+      "category": "Growth",
+      "generated_at": "2026-11-12T04:43:34.204220"
     }
   ],
-  "last_updated": "2026-11-12T01:46:29.571529"
+  "last_updated": "2026-11-12T04:43:34.204222"
 }
