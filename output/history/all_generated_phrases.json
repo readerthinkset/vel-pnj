@@ -384,7 +384,42 @@
       "transliteration": "Ki tusi eh ik vaar hor duhra sakde ho, kirpa karke?",
       "category": "Growth",
       "generated_at": "2026-11-12T04:43:34.204220"
+    },
+    {
+      "english": "Stay calm, it will pass soon.",
+      "punjabi": "ਸ਼ਾਂਤ ਰਹੋ, ਇਹ ਜਲਦੀ ਲੰਘ ਜਾਵੇਗਾ।",
+      "transliteration": "Shaant raho, eh jaldi langh jaavega.",
+      "category": "Patience",
+      "generated_at": "2026-11-12T19:16:07.808995"
+    },
+    {
+      "english": "Be patient, good things take time.",
+      "punjabi": "ਧੀਰਜ ਰੱਖੋ, ਚੰਗੀਆਂ ਗੱਲਾਂ ਸਮਾਂ ਲੈਂਦੀਆਂ ਹਨ।",
+      "transliteration": "Dheeraj rakho, changiyan gallan samaan lainḍiyan han.",
+      "category": "Patience",
+      "generated_at": "2026-11-12T19:16:07.809010"
+    },
+    {
+      "english": "Wait a bit, we’re on our way.",
+      "punjabi": "ਥੋੜ੍ਹਾ ਰੁਕੋ, ਅਸੀਂ ਰਾਹ ਵਿੱਚ ਹਾਂ।",
+      "transliteration": "Thoṛha ruko, assi raah vich han.",
+      "category": "Patience",
+      "generated_at": "2026-11-12T19:16:07.809012"
+    },
+    {
+      "english": "Don’t rush, we’ll do it right.",
+      "punjabi": "ਜਲਦੀ ਨਾ ਕਰੋ, ਅਸੀਂ ਠੀਕ ਕਰ ਲਵਾਂਗੇ।",
+      "transliteration": "Jaldi na karo, assi theek kar lavange.",
+      "category": "Patience",
+      "generated_at": "2026-11-12T19:16:07.809012"
+    },
+    {
+      "english": "Take your time, no need to hurry.",
+      "punjabi": "ਆਪਣਾ ਸਮਾਂ ਲਵੋ, ਜਲਦੀ ਦੀ ਲੋੜ ਨਹੀਂ।",
+      "transliteration": "Aapna samaan lavo, jaldi di lorh nahi.",
+      "category": "Patience",
+      "generated_at": "2026-11-12T19:16:07.809013"
     }
   ],
-  "last_updated": "2026-11-12T04:43:34.204222"
+  "last_updated": "2026-11-12T19:16:07.809015"
 }
