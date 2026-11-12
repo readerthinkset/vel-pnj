@@ -314,7 +314,42 @@
       "transliteration": "Kārd nāl bhugatān ho giā.",
       "category": "Finance",
       "generated_at": "2026-11-11T23:19:29.006130"
+    },
+    {
+      "english": "I feel tired today,",
+      "punjabi": "ਮੈਨੂੰ ਅੱਜ ਥਕਾਵਟ ਲੱਗ ਰਹੀ ਹੈ,",
+      "transliteration": "Mainū ajj thakāvaṭ lag rahī hai,",
+      "category": "Health",
+      "generated_at": "2026-11-12T01:46:29.571507"
+    },
+    {
+      "english": "Drink water slowly, please,",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਹੌਲੀ ਹੌਲੀ ਪਾਣੀ ਪਿਓ,",
+      "transliteration": "Kirpā karke hōlī hōlī pāṇī pio,",
+      "category": "Health",
+      "generated_at": "2026-11-12T01:46:29.571523"
+    },
+    {
+      "english": "My throat hurts a bit,",
+      "punjabi": "ਮੇਰੇ ਗਲੇ ਵਿੱਚ ਥੋੜ੍ਹਾ ਦਰਦ ਹੈ,",
+      "transliteration": "Mere gale vich thoṛhā dard hai,",
+      "category": "Health",
+      "generated_at": "2026-11-12T01:46:29.571524"
+    },
+    {
+      "english": "I need rest right now,",
+      "punjabi": "ਮੈਨੂੰ ਹੁਣੇ ਆਰਾਮ ਚਾਹੀਦਾ ਹੈ,",
+      "transliteration": "Mainū hunne ārām chāhīdā hai,",
+      "category": "Health",
+      "generated_at": "2026-11-12T01:46:29.571526"
+    },
+    {
+      "english": "Take deep breaths, okay?",
+      "punjabi": "ਗਹਿਰੇ ਸਾਹ ਲਓ, ਠੀਕ ਹੈ?",
+      "transliteration": "Gahirē sās lō, ṭhīk hai?",
+      "category": "Health",
+      "generated_at": "2026-11-12T01:46:29.571527"
     }
   ],
-  "last_updated": "2026-11-11T23:19:29.006133"
+  "last_updated": "2026-11-12T01:46:29.571529"
 }
