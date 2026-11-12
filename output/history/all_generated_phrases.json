@@ -419,7 +419,42 @@
       "transliteration": "Aapna samaan lavo, jaldi di lorh nahi.",
       "category": "Patience",
       "generated_at": "2026-11-12T19:16:07.809013"
+    },
+    {
+      "english": "Hi there, how are you today?",
+      "punjabi": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ, ਤੁਸੀਂ ਅੱਜ ਕਿਵੇਂ ਹੋ?",
+      "transliteration": "Sat Sri Akal, tusi aaj kivē ho?",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:16:22.057607"
+    },
+    {
+      "english": "Hello! Hope your day is going well.",
+      "punjabi": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ! ਉਮੀਦ ਹੈ ਤੁਹਾਡਾ ਦਿਨ ਚੰਗਾ ਜਾ ਰਿਹਾ ਹੈ।",
+      "transliteration": "Sat Sri Akal! Umeed hai tuhāḍā din changā jā rihā hai.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:16:22.057622"
+    },
+    {
+      "english": "Good morning, have a great day!",
+      "punjabi": "ਸ਼ੁਭ ਸਵੇਰ, ਤੁਹਾਡਾ ਦਿਨ ਬਹੁਤ ਵਧੀਆ ਹੋਵੇ!",
+      "transliteration": "Shubh saver, tuhāḍā din bahut vadiyā hovē!",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:16:22.057623"
+    },
+    {
+      "english": "Good evening, how’s everything with you?",
+      "punjabi": "ਸ਼ੁਭ ਸ਼ਾਮ, ਤੁਹਾਡੇ ਨਾਲ ਸਭ ਕੁਝ ਕਿਵੇਂ ਹੈ?",
+      "transliteration": "Shubh shām, tuhāḍē nāl sabh kujh kivē hai?",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:16:22.057624"
+    },
+    {
+      "english": "Good night, sleep well.",
+      "punjabi": "ਸ਼ੁਭ ਰਾਤ, ਚੰਗੀ ਤਰ੍ਹਾਂ ਨੀਂਦ ਕਰੋ।",
+      "transliteration": "Shubh rāt, changi tarāṁ nīnd karo.",
+      "category": "Greetings",
+      "generated_at": "2026-11-12T21:16:22.057626"
     }
   ],
-  "last_updated": "2026-11-12T19:16:07.809015"
+  "last_updated": "2026-11-12T21:16:22.057628"
 }
