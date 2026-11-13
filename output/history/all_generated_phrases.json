@@ -559,7 +559,42 @@
       "transliteration": "Vishwas karo, mere naal sab theek hai.",
       "category": "Confidence",
       "generated_at": "2026-11-13T03:55:27.781080"
+    },
+    {
+      "english": "I can handle it, step by step.",
+      "punjabi": "ਮੈਂ ਇਹ ਸੰਭਾਲ ਲਵਾਂਗਾ, ਕਦਮ-ਕਦਮ।",
+      "transliteration": "Main eh sambhaal lavāṅgā, kadam-kadam.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T18:52:34.229949"
+    },
+    {
+      "english": "Stay strong, you’ve got this.",
+      "punjabi": "ਹੌਸਲਾ ਰੱਖੋ, ਤੁਸੀਂ ਕਰ ਲਵੋਗੇ।",
+      "transliteration": "Hausla rakho, tūsiṅ kar lavoge.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T18:52:34.229960"
+    },
+    {
+      "english": "My strength grows every day.",
+      "punjabi": "ਮੇਰੀ ਤਾਕਤ ਹਰ ਰੋਜ਼ ਵੱਧਦੀ ਹੈ।",
+      "transliteration": "Meri taakat har roz vadhdi hai.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T18:52:34.229962"
+    },
+    {
+      "english": "Don’t worry, I’ll manage somehow.",
+      "punjabi": "ਚਿੰਤਾ ਨਾ ਕਰੋ, ਮੈਂ ਕਿਸੇ ਤਰ੍ਹਾਂ ਸੰਭਾਲ ਲਵਾਂਗਾ।",
+      "transliteration": "Chiṅtā na karo, main kise tarāṅ sambhaal lavāṅgā.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T18:52:34.229963"
+    },
+    {
+      "english": "I won’t give up, not today.",
+      "punjabi": "ਮੈਂ ਹਾਰ ਨਹੀਂ ਮੰਨੂੰਗਾ, ਅੱਜ ਨਹੀਂ।",
+      "transliteration": "Main haar nahī manṇūṅgā, ajj nahī.",
+      "category": "Strength",
+      "generated_at": "2026-11-13T18:52:34.229965"
     }
   ],
-  "last_updated": "2026-11-13T03:55:27.781082"
+  "last_updated": "2026-11-13T18:52:34.229966"
 }
