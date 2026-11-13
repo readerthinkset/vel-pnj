@@ -629,7 +629,42 @@
       "transliteration": "Asi mehmaan-an da chaah naal sada swaagat karde haan.",
       "category": "Culture",
       "generated_at": "2026-11-13T20:42:56.624699"
+    },
+    {
+      "english": "The morning air feels so fresh, today.",
+      "punjabi": "ਅੱਜ ਸਵੇਰੇ ਦੀ ਹਵਾ ਬਹੁਤ ਤਾਜ਼ਾ ਲੱਗਦੀ ਹੈ।",
+      "transliteration": "Aaj saveray di hava bohat taza lagdi hai.",
+      "category": "Nature",
+      "generated_at": "2026-11-13T22:26:22.208339"
+    },
+    {
+      "english": "I love the sound of birds, early.",
+      "punjabi": "ਮੈਨੂੰ ਸਵੇਰੇ ਪੰਛੀਆਂ ਦੀ ਆਵਾਜ਼ ਬਹੁਤ ਪਸੰਦ ਹੈ।",
+      "transliteration": "Mainu saveray panchhiyan di awaz bohat pasand hai.",
+      "category": "Nature",
+      "generated_at": "2026-11-13T22:26:22.208350"
+    },
+    {
+      "english": "The river is running fast, today.",
+      "punjabi": "ਅੱਜ ਦਰਿਆ ਬਹੁਤ ਤੇਜ਼ ਵਹਿ ਰਿਹਾ ਹੈ।",
+      "transliteration": "Aaj dariya bohat tez veh raha hai.",
+      "category": "Nature",
+      "generated_at": "2026-11-13T22:26:22.208352"
+    },
+    {
+      "english": "Look at the sky, it's clearing.",
+      "punjabi": "ਆਸਮਾਨ ਵੇਖੋ, ਹੁਣ ਸਾਫ਼ ਹੋ ਰਿਹਾ ਹੈ।",
+      "transliteration": "Aasman vekho, hun saaf ho raha hai.",
+      "category": "Nature",
+      "generated_at": "2026-11-13T22:26:22.208354"
+    },
+    {
+      "english": "That cloud looks heavy, wow.",
+      "punjabi": "ਉਹ ਬੱਦਲ ਭਾਰੀ ਲੱਗਦਾ ਹੈ, ਵਾਹ।",
+      "transliteration": "Ooh badal bhari lagda hai, vah.",
+      "category": "Nature",
+      "generated_at": "2026-11-13T22:26:22.208356"
     }
   ],
-  "last_updated": "2026-11-13T20:42:56.624700"
+  "last_updated": "2026-11-13T22:26:22.208357"
 }
