@@ -524,7 +524,42 @@
       "transliteration": "Haulī tarkkī vī tarkkī hī hudī hai.",
       "category": "Motivation",
       "generated_at": "2026-11-13T00:51:36.607763"
+    },
+    {
+      "english": "I believe I can do it, today.",
+      "punjabi": "ਮੈਨੂੰ ਯਕੀਨ ਹੈ, ਮੈਂ ਕਰ ਸਕਦਾ ਹਾਂ।",
+      "transliteration": "Mainu yakeen hai, main kar sakda haan.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:55:27.781064"
+    },
+    {
+      "english": "I’m confident, I’ll learn this fast.",
+      "punjabi": "ਮੈਨੂੰ ਭਰੋਸਾ ਹੈ, ਮੈਂ ਇਹ ਜਲਦੀ ਸਿੱਖ ਲਵਾਂਗਾ।",
+      "transliteration": "Mainu bharosa hai, main eh jaldi sikh lavanga.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:55:27.781075"
+    },
+    {
+      "english": "I know what to say, now.",
+      "punjabi": "ਮੈਨੂੰ ਪਤਾ ਹੈ ਹੁਣ ਕੀ ਕਹਿਣਾ ਹੈ।",
+      "transliteration": "Mainu pata hai hun ki kehna hai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:55:27.781077"
+    },
+    {
+      "english": "I’ll speak up, no worries.",
+      "punjabi": "ਮੈਂ ਬੋਲਾਂਗਾ, ਕੋਈ ਚਿੰਤਾ ਨਹੀਂ।",
+      "transliteration": "Main bolanga, koi chinta nahi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:55:27.781078"
+    },
+    {
+      "english": "Trust me, I’ve got this.",
+      "punjabi": "ਵਿਸ਼ਵਾਸ ਕਰੋ, ਮੇਰੇ ਨਾਲ ਸਭ ਠੀਕ ਹੈ।",
+      "transliteration": "Vishwas karo, mere naal sab theek hai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-13T03:55:27.781080"
     }
   ],
-  "last_updated": "2026-11-13T00:51:36.607766"
+  "last_updated": "2026-11-13T03:55:27.781082"
 }
