@@ -664,7 +664,42 @@
       "transliteration": "Ooh badal bhari lagda hai, vah.",
       "category": "Nature",
       "generated_at": "2026-11-13T22:26:22.208356"
+    },
+    {
+      "english": "Where is my T-shirt, please?",
+      "punjabi": "ਮੇਰੀ ਟੀ-ਸ਼ਰਟ ਕਿੱਥੇ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ?",
+      "transliteration": "Meri ti-shaart kithe hai, kirpa karke?",
+      "category": "Clothes",
+      "generated_at": "2026-11-14T00:36:58.004132"
+    },
+    {
+      "english": "I need clean socks today.",
+      "punjabi": "ਮੈਨੂੰ ਅੱਜ ਸਾਫ਼ ਜੁਰਾਬਾਂ ਚਾਹੀਦੀਆਂ ਹਨ।",
+      "transliteration": "Mainu aaj saaf juraban chaahidian han.",
+      "category": "Clothes",
+      "generated_at": "2026-11-14T00:36:58.004144"
+    },
+    {
+      "english": "This jacket fits me perfectly.",
+      "punjabi": "ਇਹ ਜੈਕਟ ਮੈਨੂੰ ਬਿਲਕੁਲ ਠੀਕ ਬੈਠਦਾ ਹੈ।",
+      "transliteration": "Eh jacket mainu bilkul theek baithda hai.",
+      "category": "Clothes",
+      "generated_at": "2026-11-14T00:36:58.004146"
+    },
+    {
+      "english": "Is this shirt for women?",
+      "punjabi": "ਕੀ ਇਹ ਕਮੀਜ਼ ਔਰਤਾਂ ਲਈ ਹੈ?",
+      "transliteration": "Ki eh kameez aurtaan layi hai?",
+      "category": "Clothes",
+      "generated_at": "2026-11-14T00:36:58.004147"
+    },
+    {
+      "english": "My shoes are too tight.",
+      "punjabi": "ਮੇਰੇ ਜੁੱਤੇ ਬਹੁਤ ਤੰਗ ਹਨ।",
+      "transliteration": "Mere jutte bahut tang han.",
+      "category": "Clothes",
+      "generated_at": "2026-11-14T00:36:58.004148"
     }
   ],
-  "last_updated": "2026-11-13T22:26:22.208357"
+  "last_updated": "2026-11-14T00:36:58.004150"
 }
