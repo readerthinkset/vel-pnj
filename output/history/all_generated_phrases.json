@@ -804,7 +804,42 @@
       "transliteration": "Apṇe āp ’te bharosā karo, natīje āun̄ge,",
       "category": "Success",
       "generated_at": "2026-11-14T18:55:03.445978"
+    },
+    {
+      "english": "I forgive you, truly, no hard feelings.",
+      "punjabi": "ਮੈਂ ਤੈਨੂੰ ਮਾਫ਼ ਕਰਦਾ",
+      "transliteration": "Main tainu maaf karda/ kardi aan, sach, koi gussa nahin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T21:07:18.601560"
+    },
+    {
+      "english": "Please forgive me, I was wrong.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਮਾਫ਼ ਕਰ ਦਿਓ, ਮੈਂ ਗਲਤ ਸੀ।",
+      "transliteration": "Kirpa karke mainu maaf kar deo, main galat si.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T21:07:18.601574"
+    },
+    {
+      "english": "Let it go, we’ll be okay.",
+      "punjabi": "ਛੱਡ ਦਿਓ, ਅਸੀਂ ਠੀਕ ਰਹਾਂਗੇ।",
+      "transliteration": "Chhadd deo, asi theek rahange.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T21:07:18.601575"
+    },
+    {
+      "english": "I won’t hold this against you.",
+      "punjabi": "ਮੈਂ ਇਹ ਗੱਲ ਤੇਰੇ ਖਿਲਾਫ਼ ਨਹੀਂ ਰੱਖਾਂਗਾ",
+      "transliteration": "Main eh gal tere khilaf nahin rakhanga/ rakhangi.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T21:07:18.601576"
+    },
+    {
+      "english": "Your mistake is forgiven, thank you.",
+      "punjabi": "ਤੇਰੀ ਗਲਤੀ ਮਾਫ਼ ਹੈ, ਧੰਨਵਾਦ।",
+      "transliteration": "Teri galti maaf hai, dhanvaad.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-14T21:07:18.601576"
     }
   ],
-  "last_updated": "2026-11-14T18:55:03.445980"
+  "last_updated": "2026-11-14T21:07:18.601578"
 }
