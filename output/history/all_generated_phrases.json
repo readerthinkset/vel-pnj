@@ -734,7 +734,42 @@
       "transliteration": "Hauli-hauli challo, ginti ban̄di hai.",
       "category": "Perseverance",
       "generated_at": "2026-11-14T03:54:04.995402"
+    },
+    {
+      "english": "Can I have some chai, please?",
+      "punjabi": "ਕੀ ਮੈਂ ਕੁਝ ਚਾਹ ਲੈ ਸਕਦਾ ਹਾਂ, ਕਿਰਪਾ ਕਰਕੇ?",
+      "transliteration": "Kī main kujh chāh lai sakdā hāṁ, kirpā karke?",
+      "category": "Food",
+      "generated_at": "2026-11-14T17:25:22.390655"
+    },
+    {
+      "english": "I’m hungry, let’s eat now.",
+      "punjabi": "ਮੈਨੂੰ ਭੁੱਖ ਲੱਗੀ ਹੈ, ਚਲੋ ਹੁਣ ਖਾਈਏ।",
+      "transliteration": "Mainū bhūkh laggī hai, chalo hun khāīe.",
+      "category": "Food",
+      "generated_at": "2026-11-14T17:25:22.390669"
+    },
+    {
+      "english": "This lassi is so refreshing.",
+      "punjabi": "ਇਹ ਲੱਸੀ ਬਹੁਤ ਤਾਜ਼ਗੀ ਭਰੀ ਹੈ।",
+      "transliteration": "Eh lasī bahut tāzgi bharī hai.",
+      "category": "Food",
+      "generated_at": "2026-11-14T17:25:22.390672"
+    },
+    {
+      "english": "Do you like butter chicken?",
+      "punjabi": "ਤੁਹਾਨੂੰ ਬਟਰ ਚਿਕਨ ਪਸੰਦ ਹੈ?",
+      "transliteration": "Tuhānū batar chikhan pasand hai?",
+      "category": "Food",
+      "generated_at": "2026-11-14T17:25:22.390673"
+    },
+    {
+      "english": "Please pass me the roti.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਰੋਟੀ ਪਾਸ ਕਰ ਦਿਓ।",
+      "transliteration": "Kirpa karke mainū roṭī pās kar deo.",
+      "category": "Food",
+      "generated_at": "2026-11-14T17:25:22.390676"
     }
   ],
-  "last_updated": "2026-11-14T03:54:04.995403"
+  "last_updated": "2026-11-14T17:25:22.390678"
 }
