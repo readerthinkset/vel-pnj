@@ -699,7 +699,42 @@
       "transliteration": "Mere jutte bahut tang han.",
       "category": "Clothes",
       "generated_at": "2026-11-14T00:36:58.004148"
+    },
+    {
+      "english": "Keep going, even when it’s hard.",
+      "punjabi": "ਹੌਸਲਾ ਰੱਖੋ, ਭਾਵੇਂ ਮੁਸ਼ਕਲ ਹੋਵੇ।",
+      "transliteration": "Hausla rakho, bhaaven mushkil hovē.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T03:54:04.995386"
+    },
+    {
+      "english": "Don’t stop now, you’re close.",
+      "punjabi": "ਹੁਣ ਨਾ ਰੁੱਕੋ, ਤੁਸੀਂ ਨੇੜੇ ਹੋ।",
+      "transliteration": "Huñ na rukko, tusĩ nere ho.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T03:54:04.995397"
+    },
+    {
+      "english": "One more try, you can do it.",
+      "punjabi": "ਸਿਰਫ਼ ਇਕ ਹੋਰ ਵਾਰੀ, ਤੁਸੀਂ ਕਰ ਸਕਦੇ ਹੋ।",
+      "transliteration": "Sirf ik hor vaari, tusĩ kar sakde ho.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T03:54:04.995399"
+    },
+    {
+      "english": "Breathe, then try again.",
+      "punjabi": "ਸਾਹ ਲਵੋ, ਫੇਰ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+      "transliteration": "Saah lavo, fer mudē koshish karo.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T03:54:04.995400"
+    },
+    {
+      "english": "Slow steps count, keep moving.",
+      "punjabi": "ਹੌਲੀ-ਹੌਲੀ ਚੱਲੋ, ਗਿਣਤੀ ਬਣਦੀ ਹੈ।",
+      "transliteration": "Hauli-hauli challo, ginti ban̄di hai.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-14T03:54:04.995402"
     }
   ],
-  "last_updated": "2026-11-14T00:36:58.004150"
+  "last_updated": "2026-11-14T03:54:04.995403"
 }
