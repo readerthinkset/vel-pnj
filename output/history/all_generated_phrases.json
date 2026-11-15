@@ -944,7 +944,42 @@
       "transliteration": "main sirf vekh reha haan, dhanvaad.",
       "category": "Shopping",
       "generated_at": "2026-11-15T18:05:54.829504"
+    },
+    {
+      "english": "Where is the nearest bus stop, please?",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ, ਸਭ ਤੋਂ ਨੇੜਲਾ ਬੱਸ ਸਟਾਪ ਕਿੱਥੇ ਹੈ?",
+      "transliteration": "kirpā karke, sabh ton nerlā bass sṭop kithe hai?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:31:08.260547"
+    },
+    {
+      "english": "How much is this ticket, please?",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ, ਇਸ ਟਿਕਟ ਦੀ ਕੀਮਤ ਕਿੰਨੀ ਹੈ?",
+      "transliteration": "kirpā karke, is ṭikṭ dī kīmat kinṇī hai?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:31:08.260559"
+    },
+    {
+      "english": "I want to go to the city center.",
+      "punjabi": "ਮੈਂ ਸ਼ਹਿਰ ਦੇ ਕੇਂਦਰ ਜਾਣਾ ਚਾਹੁੰਦਾ ਹਾਂ।",
+      "transliteration": "maiṁ shahir de keṇdar jāṇā chāhudā hāṁ",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:31:08.260561"
+    },
+    {
+      "english": "Is this the right way to the temple?",
+      "punjabi": "ਕੀ ਇਹ ਮੰਦਰ ਜਾਣ ਲਈ ਠੀਕ ਰਾਹ ਹੈ?",
+      "transliteration": "kī eh mandhar jāṇ la'ī ṭhīk rāh hai?",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:31:08.260562"
+    },
+    {
+      "english": "Please speak a bit more slowly.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ, ਥੋੜ੍ਹਾ ਹੌਲੀ ਬੋਲੋ।",
+      "transliteration": "kirpā karke, thoṛā haulī bolo",
+      "category": "Travel",
+      "generated_at": "2026-11-15T19:31:08.260563"
     }
   ],
-  "last_updated": "2026-11-15T18:05:54.829505"
+  "last_updated": "2026-11-15T19:31:08.260565"
 }
