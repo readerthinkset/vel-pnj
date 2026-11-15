@@ -979,7 +979,42 @@
       "transliteration": "kirpā karke, thoṛā haulī bolo",
       "category": "Travel",
       "generated_at": "2026-11-15T19:31:08.260563"
+    },
+    {
+      "english": "Hi, do you have menu cards, please?",
+      "punjabi": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ, ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਮੀਨੂ ਹੈ?",
+      "transliteration": "Sat sri akaal, ki tuhade kol menu hai?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:30:00.018913"
+    },
+    {
+      "english": "Yes, we’ll take one biryani, please.",
+      "punjabi": "ਹਾਂ ਜੀ, ਸਾਨੂੰ ਇੱਕ ਬਿਰਿਆਨੀ ਚਾਹੀਦੀ ਹੈ।",
+      "transliteration": "Haan ji, saanu ik beryaani chaahidi hai.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:30:00.018926"
+    },
+    {
+      "english": "Can I get mild spice, please?",
+      "punjabi": "ਕੀ ਮੈਨੂੰ ਹਲਕੀ ਮਸਾਲੇਦਾਰੀ ਮਿਲ ਸਕਦੀ ਹੈ?",
+      "transliteration": "Ki mainu halki masaledari mil sakdi hai?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:30:00.018927"
+    },
+    {
+      "english": "No onions, please, I have an allergy.",
+      "punjabi": "ਪਿਆਜ਼ ਨਹੀਂ, ਕਿਰਪਾ ਕਰਕੇ, ਮੈਨੂੰ ਐਲਰਜੀ ਹੈ।",
+      "transliteration": "Piyaaz nahi, kirpa karke, mainu allergy hai.",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:30:00.018928"
+    },
+    {
+      "english": "What do you recommend for first-timers?",
+      "punjabi": "ਤੁਸੀਂ ਪਹਿਲੀ ਵਾਰੀ ਆਏ ਲੋਕਾਂ ਲਈ ਕੀ ਸਿਫ਼ਾਰਸ਼ ਕਰਦੇ ਹੋ?",
+      "transliteration": "Tusi pehli vaari aaye lokan layi ki sifaarsh karde ho?",
+      "category": "Restaurant",
+      "generated_at": "2026-11-15T21:30:00.018929"
     }
   ],
-  "last_updated": "2026-11-15T19:31:08.260565"
+  "last_updated": "2026-11-15T21:30:00.018931"
 }
