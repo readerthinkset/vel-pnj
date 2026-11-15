@@ -909,7 +909,42 @@
       "transliteration": "Mainū turant mēḍīkal madad chāhīdī hai.",
       "category": "Emergency",
       "generated_at": "2026-11-15T03:36:21.537715"
+    },
+    {
+      "english": "Do you have this in small size?",
+      "punjabi": "ਕੀ ਇਹ ਛੋਟੇ ਸਾਈਜ਼ ਵਿੱਚ ਮਿਲਦਾ ਹੈ?",
+      "transliteration": "ki eh chhote size vich milda hai?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T18:05:54.829485"
+    },
+    {
+      "english": "How much is this, please?",
+      "punjabi": "ਇਹਦੀ ਕੀਮਤ ਕਿੰਨੀ ਹੈ, ਜੀ?",
+      "transliteration": "ehdi kimat kinni hai, ji?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T18:05:54.829501"
+    },
+    {
+      "english": "Can I try this on?",
+      "punjabi": "ਕੀ ਮੈਂ ਇਹ ਪਾ ਕੇ ਵੇਖ ਸਕਦਾ ਹਾਂ?",
+      "transliteration": "ki main eh paa ke vekh sakda haan?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T18:05:54.829503"
+    },
+    {
+      "english": "Do you take cards here?",
+      "punjabi": "ਕੀ ਤੁਸੀਂ ਇੱਥੇ ਕਾਰਡ ਲੈਂਦੇ ਹੋ?",
+      "transliteration": "ki tusi ithe card lende ho?",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T18:05:54.829503"
+    },
+    {
+      "english": "I’m just looking, thank you.",
+      "punjabi": "ਮੈਂ ਸਿਰਫ਼ ਵੇਖ ਰਿਹਾ ਹਾਂ, ਧੰਨਵਾਦ।",
+      "transliteration": "main sirf vekh reha haan, dhanvaad.",
+      "category": "Shopping",
+      "generated_at": "2026-11-15T18:05:54.829504"
     }
   ],
-  "last_updated": "2026-11-15T03:36:21.537716"
+  "last_updated": "2026-11-15T18:05:54.829505"
 }
