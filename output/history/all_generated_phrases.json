@@ -874,7 +874,42 @@
       "transliteration": "Dādā mainū maze-dār kahāṇīāṁ suṇāundē han,",
       "category": "Family Terms",
       "generated_at": "2026-11-14T23:35:07.270053"
+    },
+    {
+      "english": "Help me, please, quickly.",
+      "punjabi": "ਮੈਨੂੰ ਮਦਦ ਕਰੋ ਜੀ, ਜਲਦੀ।",
+      "transliteration": "Mainu madad karo ji, jaldi.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:36:21.537698"
+    },
+    {
+      "english": "Stop! Call the police now!",
+      "punjabi": "ਰੁਕੋ! ਹੁਣੇ ਪੁਲਿਸ ਨੂੰ ਕਾਲ ਕਰੋ!",
+      "transliteration": "Ruko! Hunē pulis nū call karo!",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:36:21.537711"
+    },
+    {
+      "english": "There is an emergency, please help.",
+      "punjabi": "ਇੱਥੇ ਐਮਰਜੈਂਸੀ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਮਦਦ ਕਰੋ।",
+      "transliteration": "Ithē emarjēnsī hai, kirpā karke madad karo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:36:21.537712"
+    },
+    {
+      "english": "Call an ambulance right now, please.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਹੁਣੇ ਐਂਬੂਲੈਂਸ ਨੂੰ ਕਾਲ ਕਰੋ।",
+      "transliteration": "Kirpā karke hunē ambūlains nū call karo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:36:21.537714"
+    },
+    {
+      "english": "I need urgent medical help.",
+      "punjabi": "ਮੈਨੂੰ ਤੁਰੰਤ ਮੈਡੀਕਲ ਮਦਦ ਚਾਹੀਦੀ ਹੈ।",
+      "transliteration": "Mainū turant mēḍīkal madad chāhīdī hai.",
+      "category": "Emergency",
+      "generated_at": "2026-11-15T03:36:21.537715"
     }
   ],
-  "last_updated": "2026-11-14T23:35:07.270054"
+  "last_updated": "2026-11-15T03:36:21.537716"
 }
