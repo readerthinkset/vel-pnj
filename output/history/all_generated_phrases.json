@@ -1084,7 +1084,42 @@
       "transliteration": "Chup-chaap, main apne aap nu sun-da haan.",
       "category": "Inner Peace",
       "generated_at": "2026-11-16T03:36:14.070124"
+    },
+    {
+      "english": "I feel calm right now, thanks.",
+      "punjabi": "ਮੈਂ ਹੁਣ ਸ਼ਾਂਤ ਮਹਿਸੂਸ ਕਰ ਰਿਹਾ",
+      "transliteration": "Main hun shaant mahesoos kar raha/rahi haan, dhanvaad.",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T21:22:04.151732"
+    },
+    {
+      "english": "I feel nervous before the test.",
+      "punjabi": "ਮੈਨੂੰ ਟੈਸਟ ਤੋਂ ਪਹਿਲਾਂ ਘਬਰਾਹਟ ਹੁੰਦੀ ਹੈ।",
+      "transliteration": "Mainu test ton pichlaan ghabrahat hundi hai.",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T21:22:04.151745"
+    },
+    {
+      "english": "I’m feeling happy, everything’s okay.",
+      "punjabi": "ਮੈਂ ਖੁਸ਼ ਮਹਿਸੂਸ ਕਰ ਰਹੀ",
+      "transliteration": "Main khush mahesoos kar rahi/raha haan, sab theek hai.",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T21:22:04.151747"
+    },
+    {
+      "english": "I feel sad today, please be kind.",
+      "punjabi": "ਅੱਜ ਮੇਰਾ ਦਿਲ ਉਦਾਸ ਹੈ, ਕਿਰਪਾ ਕਰ ਕੇ।",
+      "transliteration": "Aaj mera dil udaas hai, kirpa kar ke.",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T21:22:04.151748"
+    },
+    {
+      "english": "I feel excited about tomorrow.",
+      "punjabi": "ਮੈਨੂੰ ਕੱਲ੍ਹ ਲਈ ਬਹੁਤ ਉਤਸ਼ਾਹ ਹੈ।",
+      "transliteration": "Mainu kllh lai bahut utsaah hai.",
+      "category": "Feelings",
+      "generated_at": "2026-11-16T21:22:04.151749"
     }
   ],
-  "last_updated": "2026-11-16T03:36:14.070127"
+  "last_updated": "2026-11-16T21:22:04.151751"
 }
