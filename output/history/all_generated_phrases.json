@@ -1119,7 +1119,42 @@
       "transliteration": "Mainu kllh lai bahut utsaah hai.",
       "category": "Feelings",
       "generated_at": "2026-11-16T21:22:04.151749"
+    },
+    {
+      "english": "I miss you so much, yaar.",
+      "punjabi": "ਮੈਨੂੰ ਤੇਰੀ ਬਹੁਤ ਯਾਦ ਆਉਂਦੀ ਏ, ਯਾਰ।",
+      "transliteration": "mainu tеri bahut yaad aaundi ae, yaar.",
+      "category": "Relationships",
+      "generated_at": "2026-11-16T23:08:14.774486"
+    },
+    {
+      "english": "You mean a lot to me.",
+      "punjabi": "ਤੂੰ ਮੇਰੇ ਲਈ ਬਹੁਤ ਮਾਇਨੇ ਰੱਖਦਾ ਏ।",
+      "transliteration": "tū mere layi bahut maayne rakhda ae.",
+      "category": "Relationships",
+      "generated_at": "2026-11-16T23:08:14.774498"
+    },
+    {
+      "english": "Thank you for always being there.",
+      "punjabi": "ਹਮੇਸ਼ਾਂ ਮੇਰੇ ਨਾਲ ਹੋਣ ਲਈ ਧੰਨਵਾਦ।",
+      "transliteration": "hameshã mere naal hon layi dhanvaad.",
+      "category": "Relationships",
+      "generated_at": "2026-11-16T23:08:14.774500"
+    },
+    {
+      "english": "I trust you completely, please.",
+      "punjabi": "ਮੈਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਤੇਰੇ 'ਤੇ ਭਰੋਸਾ ਕਰਦਾ ਹਾਂ।",
+      "transliteration": "main poori tarhã tere te bharosa karda hã.",
+      "category": "Relationships",
+      "generated_at": "2026-11-16T23:08:14.774501"
+    },
+    {
+      "english": "Tell me the truth, please.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਸੱਚ ਦੱਸ।",
+      "transliteration": "kirpa karke sach dass.",
+      "category": "Relationships",
+      "generated_at": "2026-11-16T23:08:14.774503"
     }
   ],
-  "last_updated": "2026-11-16T21:22:04.151751"
+  "last_updated": "2026-11-16T23:08:14.774505"
 }
