@@ -1294,7 +1294,42 @@
       "transliteration": "Tuhāḍī mīhrbānī ate dhīraj layī dhanvāad.",
       "category": "Growth",
       "generated_at": "2026-11-17T20:09:42.460956"
+    },
+    {
+      "english": "Turn left at the next corner, please.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਅਗਲੇ ਮੁੜਨ ਤੇ ਖੱਬੇ ਮੁੜੋ।",
+      "transliteration": "kirpā karke agle murṇ te khabe muṛo",
+      "category": "Directions",
+      "generated_at": "2026-11-17T21:58:36.506299"
+    },
+    {
+      "english": "Turn right, it’s just down the road.",
+      "punjabi": "ਸੱਜੇ ਮੁੜੋ, ਇਹ ਸੜਕ ਦੇ ਹੇਠਾਂ ਹੀ ਹੈ।",
+      "transliteration": "sajjē muṛo, eh saṛak de heṭāṅ hi hai",
+      "category": "Directions",
+      "generated_at": "2026-11-17T21:58:36.506311"
+    },
+    {
+      "english": "Go straight, don’t stop here.",
+      "punjabi": "ਸਿੱਧੇ ਜਾਓ, ਇੱਥੇ ਨਾ ਰੁੱਕੋ।",
+      "transliteration": "sīdhē jāo, ithē nāṁ rukko",
+      "category": "Directions",
+      "generated_at": "2026-11-17T21:58:36.506313"
+    },
+    {
+      "english": "Walk a little forward, then stop.",
+      "punjabi": "ਥੋੜ੍ਹਾ ਅੱਗੇ ਚਲੋ, ਫਿਰ ਰੁਕੋ।",
+      "transliteration": "thoṛāṅ agge chalo, phir rukō",
+      "category": "Directions",
+      "generated_at": "2026-11-17T21:58:36.506314"
+    },
+    {
+      "english": "Keep going, you’ll reach soon.",
+      "punjabi": "ਚਲਦੇ ਰਹੋ, ਤੁਸੀਂ ਜਲਦੀ ਪਹੁੰਚ ਜਾਓਗੇ।",
+      "transliteration": "chalde rahō, tusīṁ jaldi pahunch jāoge",
+      "category": "Directions",
+      "generated_at": "2026-11-17T21:58:36.506316"
     }
   ],
-  "last_updated": "2026-11-17T20:09:42.460958"
+  "last_updated": "2026-11-17T21:58:36.506319"
 }
