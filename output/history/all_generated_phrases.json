@@ -1329,7 +1329,42 @@
       "transliteration": "chalde rahō, tusīṁ jaldi pahunch jāoge",
       "category": "Directions",
       "generated_at": "2026-11-17T21:58:36.506316"
+    },
+    {
+      "english": "I need two bottles of water, please.",
+      "punjabi": "ਮੈਨੂੰ ਪਾਣੀ ਦੀਆਂ ਦੋ ਬੋਤਲਾਂ ਚਾਹੀਦੀਆਂ, ਕਿਰਪਾ ਕਰਕੇ।",
+      "transliteration": "Mainu paani diyaan do botlaan chaahidiyaan, kirpa karke.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T23:45:00.838888"
+    },
+    {
+      "english": "Give me one cup of tea, please.",
+      "punjabi": "ਮੈਨੂੰ ਇੱਕ ਕੱਪ ਚਾਹ ਦਿਓ, ਕਿਰਪਾ ਕਰਕੇ।",
+      "transliteration": "Mainu ik kap chaa deo, kirpa karke.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T23:45:00.838900"
+    },
+    {
+      "english": "I have three tickets for today.",
+      "punjabi": "ਮੇਰੇ ਕੋਲ ਅੱਜ ਲਈ ਤਿੰਨ ਟਿਕਟਾਂ ਹਨ।",
+      "transliteration": "Mere kol aaj layee tin takitaan han.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T23:45:00.838902"
+    },
+    {
+      "english": "We need four more chairs for guests.",
+      "punjabi": "ਸਾਨੂੰ ਮਹਿਮਾਨਾਂ ਲਈ ਹੋਰ ਚਾਰ ਕੁਰਸੀਆਂ ਚਾਹੀਦੀਆਂ।",
+      "transliteration": "Saanu mehmaanā̃ layee hor chaar kursiaan chaahidiyaan.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T23:45:00.838903"
+    },
+    {
+      "english": "Take five minutes, then start.",
+      "punjabi": "ਪੰਜ ਮਿੰਟ ਲਓ, ਫਿਰ ਸ਼ੁਰੂ ਕਰੋ।",
+      "transliteration": "Panj mint lao, phir shurū karo.",
+      "category": "Numbers",
+      "generated_at": "2026-11-17T23:45:00.838904"
     }
   ],
-  "last_updated": "2026-11-17T21:58:36.506319"
+  "last_updated": "2026-11-17T23:45:00.838906"
 }
