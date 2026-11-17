@@ -1189,7 +1189,42 @@
       "transliteration": "Chhadd deo, horan naal shaant raho.",
       "category": "Kindness",
       "generated_at": "2026-11-17T00:40:18.093308"
+    },
+    {
+      "english": "Thanks for helping me today, really.",
+      "punjabi": "ਅੱਜ ਮੇਰੀ ਮਦਦ ਕਰਨ ਲਈ ਧੰਨਵਾਦ, ਸੱਚਮੁੱਚ।",
+      "transliteration": "aajj meri madad karan layi dhanvaad, sach-much.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T02:44:36.362073"
+    },
+    {
+      "english": "I really appreciate your kindness, today.",
+      "punjabi": "ਮੈਂ ਤੁਹਾਡੀ ਮਿਹਰਬਾਨੀ ਦੀ ਸਚਮੁੱਚ ਕਦਰ ਕਰਦਾ ਹਾਂ, ਅੱਜ।",
+      "transliteration": "main tuhadi meharbani di sach-much kadar karda haan, aaj.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T02:44:36.362087"
+    },
+    {
+      "english": "Thank you, you made my day.",
+      "punjabi": "ਧੰਨਵਾਦ, ਤੁਸੀਂ ਮੇਰਾ ਦਿਨ ਬਣਾ ਦਿੱਤਾ।",
+      "transliteration": "dhanvaad, tusi mera din bana ditta.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T02:44:36.362089"
+    },
+    {
+      "english": "I’m grateful for your time, truly.",
+      "punjabi": "ਮੈਂ ਤੁਹਾਡੇ ਸਮੇਂ ਲਈ ਬਹੁਤ ਧੰਨਵਾਦੀ ਹਾਂ, ਸੱਚਮੁੱਚ।",
+      "transliteration": "main tuhade samay layi bahut dhanvaadi haan, sach-much.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T02:44:36.362090"
+    },
+    {
+      "english": "Thanks for being so patient with me.",
+      "punjabi": "ਮੇਰੇ ਨਾਲ ਇੰਨੀ ਧੀਰਜ ਰੱਖਣ ਲਈ ਧੰਨਵਾਦ।",
+      "transliteration": "mere naal inni dheeraj rakhṇ layi dhanvaad.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T02:44:36.362092"
     }
   ],
-  "last_updated": "2026-11-17T00:40:18.093309"
+  "last_updated": "2026-11-17T02:44:36.362093"
 }
