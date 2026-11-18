@@ -1399,7 +1399,42 @@
       "transliteration": "kirpa karke, sapp nū̃ na chhoh",
       "category": "Animals",
       "generated_at": "2026-11-18T01:59:58.268696"
+    },
+    {
+      "english": "It’s raining right now, oh no.",
+      "punjabi": "ਅਜੇ ਮੀਂਹ ਪੈ ਰਿਹਾ ਹੈ, ਅਫ਼ਸੋਸ।",
+      "transliteration": "aaj minḥ pai rihā hai, afsos.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T04:58:54.581392"
+    },
+    {
+      "english": "The weather feels chilly today.",
+      "punjabi": "ਅੱਜ ਮੌਸਮ ਠੰਢਾ ਜਿਹਾ ਲੱਗਦਾ ਹੈ।",
+      "transliteration": "aaj mausam thandā jihā lagdā hai.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T04:58:54.581406"
+    },
+    {
+      "english": "Clouds are gathering, I can feel it.",
+      "punjabi": "ਬੱਦਲ ਇਕੱਠੇ ਹੋ ਰਹੇ ਹਨ, ਮੈਂ ਮਹਿਸੂਸ ਕਰਦਾ।",
+      "transliteration": "baddal ikatthe ho rahe han, main mahsūs kardā.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T04:58:54.581408"
+    },
+    {
+      "english": "Is it going to rain later?",
+      "punjabi": "ਕੀ ਬਾਅਦ ਵਿੱਚ ਮੀਂਹ ਪਵੇਗਾ?",
+      "transliteration": "kī bād vich minḥ pavegā?",
+      "category": "Weather",
+      "generated_at": "2026-11-18T04:58:54.581409"
+    },
+    {
+      "english": "The wind is strong today.",
+      "punjabi": "ਅੱਜ ਹਵਾ ਕਾਫ਼ੀ ਤੇਜ਼ ਹੈ।",
+      "transliteration": "aaj havā kāfī tez hai.",
+      "category": "Weather",
+      "generated_at": "2026-11-18T04:58:54.581411"
     }
   ],
-  "last_updated": "2026-11-18T01:59:58.268698"
+  "last_updated": "2026-11-18T04:58:54.581413"
 }
