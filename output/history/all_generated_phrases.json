@@ -1504,7 +1504,42 @@
       "transliteration": "main eh kam dupahar tak muka lavanga",
       "category": "Work",
       "generated_at": "2026-11-18T21:40:48.769530"
+    },
+    {
+      "english": "I’m fine, thank you.",
+      "punjabi": "ਮੈਂ ਠੀਕ ਹਾਂ, ਧੰਨਵਾਦ।",
+      "transliteration": "Main ṭhīk haã, dhannvaad.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:16:44.460003"
+    },
+    {
+      "english": "What’s your name?",
+      "punjabi": "ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ?",
+      "transliteration": "Tuhaḍā naam kī hai?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:16:44.460015"
+    },
+    {
+      "english": "My name is Sarah.",
+      "punjabi": "ਮੇਰਾ ਨਾਮ ਸਾਰਾਹ ਹੈ।",
+      "transliteration": "Mērā naam Sārāh hai.",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:16:44.460017"
+    },
+    {
+      "english": "Nice to meet you!",
+      "punjabi": "ਤੁਹਾਨੂੰ ਮਿਲ ਕੇ ਚੰਗਾ ਲੱਗਿਆ!",
+      "transliteration": "Tuhaṇū mil ke changā laggiā!",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:16:44.460018"
+    },
+    {
+      "english": "Where are you from?",
+      "punjabi": "ਤੁਸੀਂ ਕਿੱਥੋਂ ਹੋ?",
+      "transliteration": "Tusī̃ kiṯhō̃ ho?",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-18T23:16:44.460019"
     }
   ],
-  "last_updated": "2026-11-18T21:40:48.769531"
+  "last_updated": "2026-11-18T23:16:44.460020"
 }
