@@ -1469,7 +1469,42 @@
       "transliteration": "Chhadd dio, ate apṇe āp nūṁ sāh lain dio.",
       "category": "Positive Life",
       "generated_at": "2026-11-18T19:42:01.180275"
+    },
+    {
+      "english": "Hi, I’m here for the meeting.",
+      "punjabi": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ, ਮੈਂ ਮੀਟਿੰਗ ਲਈ ਆਇਆ ਹਾਂ।",
+      "transliteration": "sat sri akal, main meeting lai aaya han",
+      "category": "Work",
+      "generated_at": "2026-11-18T21:40:48.769514"
+    },
+    {
+      "english": "Good morning, what’s today’s plan?",
+      "punjabi": "ਸ਼ੁਭ ਸਵੇਰ, ਅੱਜ ਦਾ ਪਲਾਨ ਕੀ ਹੈ?",
+      "transliteration": "shubh saver, ajj da plan ki hai",
+      "category": "Work",
+      "generated_at": "2026-11-18T21:40:48.769526"
+    },
+    {
+      "english": "Please share the schedule with me.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੇ ਨਾਲ ਸ਼ਡਿਊਲ ਸਾਂਝਾ ਕਰੋ।",
+      "transliteration": "kirpa karke mere naal schedule sanjha karo",
+      "category": "Work",
+      "generated_at": "2026-11-18T21:40:48.769527"
+    },
+    {
+      "english": "Can you explain this step quickly?",
+      "punjabi": "ਕੀ ਤੁਸੀਂ ਇਹ ਕਦਮ ਜਲਦੀ ਸਮਝਾ ਸਕਦੇ ਹੋ?",
+      "transliteration": "ki tusi eh kadam jaldi samjha sakde ho",
+      "category": "Work",
+      "generated_at": "2026-11-18T21:40:48.769529"
+    },
+    {
+      "english": "I’ll finish this task by noon.",
+      "punjabi": "ਮੈਂ ਇਹ ਕੰਮ ਦੁਪਹਿਰ ਤੱਕ ਮੁਕਾ ਲਵਾਂਗਾ।",
+      "transliteration": "main eh kam dupahar tak muka lavanga",
+      "category": "Work",
+      "generated_at": "2026-11-18T21:40:48.769530"
     }
   ],
-  "last_updated": "2026-11-18T19:42:01.180279"
+  "last_updated": "2026-11-18T21:40:48.769531"
 }
