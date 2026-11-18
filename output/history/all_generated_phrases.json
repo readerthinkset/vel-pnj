@@ -1364,7 +1364,42 @@
       "transliteration": "Panj mint lao, phir shurū karo.",
       "category": "Numbers",
       "generated_at": "2026-11-17T23:45:00.838904"
+    },
+    {
+      "english": "The puppy is sleeping under the table.",
+      "punjabi": "ਬੱਚਾ ਕੁੱਤਾ ਮੇਜ਼ ਹੇਠਾਂ ਸੋ ਰਿਹਾ ਹੈ।",
+      "transliteration": "baccha kutta mej hethaan so rihā hai",
+      "category": "Animals",
+      "generated_at": "2026-11-18T01:59:58.268679"
+    },
+    {
+      "english": "Can you hear the frog croaking now?",
+      "punjabi": "ਕੀ ਤੁਸੀਂ ਹੁਣ ਮੈਂਡਕ ਦੀ ਟਰਟਰ ਸੁਣ ਰਹੇ ਹੋ?",
+      "transliteration": "ki tusi hun meṇḍak di ṭarṭar suṇ rahe ho",
+      "category": "Animals",
+      "generated_at": "2026-11-18T01:59:58.268692"
+    },
+    {
+      "english": "That cat just jumped onto the sofa.",
+      "punjabi": "ਉਹ ਬਿੱਲੀ ਹਾਲ ਹੀ ਵਿੱਚ ਸੋਫੇ ਤੇ ਛਾਲ ਮਾਰ ਗਈ।",
+      "transliteration": "uh billī haal hī vich sofre te chhaal maar gai",
+      "category": "Animals",
+      "generated_at": "2026-11-18T01:59:58.268694"
+    },
+    {
+      "english": "The fish is moving in its bowl.",
+      "punjabi": "ਮੱਛੀ ਆਪਣੇ ਕਟੋਰੇ ਵਿੱਚ ਹਿਲ ਰਹੀ ਹੈ।",
+      "transliteration": "machhī apṇe katoře vich hil rahī hai",
+      "category": "Animals",
+      "generated_at": "2026-11-18T01:59:58.268695"
+    },
+    {
+      "english": "Please, don’t touch the snake.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ, ਸੱਪ ਨੂੰ ਨਾ ਛੋਹ।",
+      "transliteration": "kirpa karke, sapp nū̃ na chhoh",
+      "category": "Animals",
+      "generated_at": "2026-11-18T01:59:58.268696"
     }
   ],
-  "last_updated": "2026-11-17T23:45:00.838906"
+  "last_updated": "2026-11-18T01:59:58.268698"
 }
