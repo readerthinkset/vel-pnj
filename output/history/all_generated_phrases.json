@@ -1784,7 +1784,42 @@
       "transliteration": "Sīḍhe khad̤he hovō, apṇe moḍhe ḍhille rakhō.",
       "category": "Balance",
       "generated_at": "2026-11-20T04:42:59.681355"
+    },
+    {
+      "english": "I’m hurt, please help me, now.",
+      "punjabi": "ਮੈਂ ਜ਼ਖ਼ਮੀ ਹਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੀ ਮਦਦ ਕਰੋ, ਹੁਣੇ।",
+      "transliteration": "Main zakhmii haan, kirpaa karke meri madad karo, hune.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T19:20:32.549238"
+    },
+    {
+      "english": "Please call a doctor, right away.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਡਾਕਟਰ ਨੂੰ ਹੁਣੇ ਫ਼ੋਨ ਕਰੋ।",
+      "transliteration": "Kirpaa karke doctor nu hune fon karo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T19:20:32.549252"
+    },
+    {
+      "english": "Someone’s in danger, call for help.",
+      "punjabi": "ਕਿਸੇ ਦੀ ਜਾਨ ਖਤਰੇ ਵਿਚ ਹੈ, ਮਦਦ ਲਈ ਫ਼ੋਨ ਕਰੋ।",
+      "transliteration": "Kise di jaan khatre vich hai, madad lai fon karo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T19:20:32.549253"
+    },
+    {
+      "english": "I can’t breathe, please stay with me.",
+      "punjabi": "ਮੈਨੂੰ ਸਾਹ ਨਹੀਂ ਆ ਰਿਹਾ, ਕਿਰਪਾ ਕਰਕੇ ਮੇਰੇ ਨਾਲ ਰਹੋ।",
+      "transliteration": "Mainu saah nahi aa rihā, kirpaa karke mere naal raho.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T19:20:32.549445"
+    },
+    {
+      "english": "My chest hurts, call an ambulance.",
+      "punjabi": "ਮੇਰੀ ਛਾਤੀ ਦਰਦ ਕਰਦੀ ਹੈ, ਐਂਬੂਲੈਂਸ ਨੂੰ ਫ਼ੋਨ ਕਰੋ।",
+      "transliteration": "Meri chhaatii dard kardi hai, ambulance nu fon karo.",
+      "category": "Emergency",
+      "generated_at": "2026-11-20T19:20:32.549446"
     }
   ],
-  "last_updated": "2026-11-20T04:42:59.681357"
+  "last_updated": "2026-11-20T19:20:32.549448"
 }
