@@ -1749,7 +1749,42 @@
       "transliteration": "Mērā heḍsaitt muṛ pair nahīṁ ho rihā.",
       "category": "Technology",
       "generated_at": "2026-11-20T01:36:22.808541"
+    },
+    {
+      "english": "Breathe in, I’ll help you balance.",
+      "punjabi": "ਸਾਹ ਅੰਦਰ ਲੈਓ, ਮੈਂ ਤੁਹਾਡੀ ਬੈਲੈਂਸ ਕਰਾਂਗਾ।",
+      "transliteration": "Sāh andar le'o, main tuhāḍī beilains karāṅgā.",
+      "category": "Balance",
+      "generated_at": "2026-11-20T04:42:59.681339"
+    },
+    {
+      "english": "Keep your weight centered, don’t rush.",
+      "punjabi": "ਆਪਣਾ ਵਜ਼ਨ ਕੇਂਦਰ ਵਿਚ ਰੱਖੋ, ਜਲਦੀ ਨਾ ਕਰੋ।",
+      "transliteration": "Āpaṇā vazan keṇdar vich rakho, jaladī nā karo.",
+      "category": "Balance",
+      "generated_at": "2026-11-20T04:42:59.681350"
+    },
+    {
+      "english": "Slow down, then find your footing.",
+      "punjabi": "ਹੌਲੀ ਕਰੋ, ਫਿਰ ਆਪਣਾ ਪੈਰ ਲੱਭੋ।",
+      "transliteration": "Hāulī karo, phir āpaṇā pair labho.",
+      "category": "Balance",
+      "generated_at": "2026-11-20T04:42:59.681352"
+    },
+    {
+      "english": "Stay calm, your balance will come back.",
+      "punjabi": "ਸ਼ਾਂਤ ਰਹੋ, ਤੁਹਾਡਾ ਸੰਤੁਲਨ ਵਾਪਸ ਆਵੇਗਾ।",
+      "transliteration": "Shānt rahō, tuhāḍā sañtuḷan vāpas āvēgā.",
+      "category": "Balance",
+      "generated_at": "2026-11-20T04:42:59.681354"
+    },
+    {
+      "english": "Stand straight, and relax your shoulders.",
+      "punjabi": "ਸਿੱਧੇ ਖੜ੍ਹੇ ਹੋਵੋ, ਆਪਣੇ ਮੋਢੇ ਢਿੱਲੇ ਰੱਖੋ।",
+      "transliteration": "Sīḍhe khad̤he hovō, apṇe moḍhe ḍhille rakhō.",
+      "category": "Balance",
+      "generated_at": "2026-11-20T04:42:59.681355"
     }
   ],
-  "last_updated": "2026-11-20T01:36:22.808543"
+  "last_updated": "2026-11-20T04:42:59.681357"
 }
