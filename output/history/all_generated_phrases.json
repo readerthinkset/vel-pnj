@@ -2204,7 +2204,42 @@
       "transliteration": "ik mint ruko, kirpa karke.",
       "category": "Time",
       "generated_at": "2026-11-22T20:32:10.265071"
+    },
+    {
+      "english": "I love playing cricket with friends.",
+      "punjabi": "ਮੈਨੂੰ ਦੋਸਤਾਂ ਨਾਲ ਕ੍ਰਿਕੇਟ ਖੇਡਣਾ ਪਸੰਦ ਹੈ।",
+      "transliteration": "mainu dostan naal cricket khedna pasand hai",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:19:37.134581"
+    },
+    {
+      "english": "Pass me the ball, please.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਗੇਂਦ ਪਾਸ ਕਰੋ।",
+      "transliteration": "kirpa karke mainu gend paas karo",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:19:37.134597"
+    },
+    {
+      "english": "Great shot! That was amazing.",
+      "punjabi": "ਵਧੀਆ ਸ਼ਾਟ! ਬਹੁਤ ਵਧੀਆ ਸੀ।",
+      "transliteration": "vadhiya shot! bahut vadhiya si",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:19:37.134598"
+    },
+    {
+      "english": "Nice try, you’ll get it next time.",
+      "punjabi": "ਵਧੀਆ ਕੋਸ਼ਿਸ਼, ਅਗਲੀ ਵਾਰੀ ਹੋ ਜਾਵੇਗਾ।",
+      "transliteration": "vadhiya koshish, agli vaari ho jaavega",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:19:37.134599"
+    },
+    {
+      "english": "Are you ready for practice now?",
+      "punjabi": "ਕੀ ਤੁਸੀਂ ਹੁਣ ਅਭਿਆਸ ਲਈ ਤਿਆਰ ਹੋ?",
+      "transliteration": "ki tusi hun abhyaas layi taiyar ho",
+      "category": "Sports",
+      "generated_at": "2026-11-22T22:19:37.134600"
     }
   ],
-  "last_updated": "2026-11-22T20:32:10.265072"
+  "last_updated": "2026-11-22T22:19:37.134602"
 }
