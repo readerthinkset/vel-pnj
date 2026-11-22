@@ -2099,7 +2099,42 @@
       "transliteration": "Aaj main bolanga, bhaavein galtiyaan hon.",
       "category": "Confidence",
       "generated_at": "2026-11-22T00:01:20.458015"
+    },
+    {
+      "english": "Share your seat, it’s okay.",
+      "punjabi": "ਆਪਣੀ ਸੀਟ ਸਾਂਝੀ ਕਰੋ, ਠੀਕ ਹੈ।",
+      "transliteration": "apni seat saanjhi karo, theek hai.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T03:51:59.793293"
+    },
+    {
+      "english": "Ask, then help, without rushing.",
+      "punjabi": "ਪਹਿਲਾਂ ਪੁੱਛੋ, ਫਿਰ ਮਦਦ ਕਰੋ, ਬਿਨਾਂ ਜਲਦੀ।",
+      "transliteration": "pehlan poochho, phir madad karo, binaa jaldi.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T03:51:59.793307"
+    },
+    {
+      "english": "You matter, I’m listening right now.",
+      "punjabi": "ਤੁਸੀਂ ਮਹੱਤਵਪੂਰਨ ਹੋ, ਮੈਂ ਹੁਣ ਸੁਣ ਰਿਹਾ",
+      "transliteration": "tusi mehtavpooran ho, main hun sunn reha/reeha.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T03:51:59.793309"
+    },
+    {
+      "english": "Compliment someone, it costs nothing.",
+      "punjabi": "ਕਿਸੇ ਨੂੰ ਤਾਰੀਫ਼ ਕਰੋ, ਕੁਝ ਨਹੀਂ ਲੱਗਦਾ।",
+      "transliteration": "kise nu tareef karo, kakh bhi nahi lagda.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T03:51:59.793310"
+    },
+    {
+      "english": "Forgive fast, keep your heart light.",
+      "punjabi": "ਜਲਦੀ ਮਾਫ਼ ਕਰੋ, ਦਿਲ ਹਲਕਾ ਰੱਖੋ।",
+      "transliteration": "jaldi maaf karo, dil halka rakho.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T03:51:59.793311"
     }
   ],
-  "last_updated": "2026-11-22T00:01:20.458017"
+  "last_updated": "2026-11-22T03:51:59.793313"
 }
