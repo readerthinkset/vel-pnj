@@ -2064,7 +2064,42 @@
       "transliteration": "Sachche raho, te bharosa aaunda hai.",
       "category": "Wisdom",
       "generated_at": "2026-11-21T22:03:38.906815"
+    },
+    {
+      "english": "I can do this, step by step.",
+      "punjabi": "ਮੈਂ ਇਹ ਕਰ ਸਕਦਾ ਹਾਂ, ਕਦਮ ਦਰ ਕਦਮ।",
+      "transliteration": "Main eh kar sakda haan, kadam dar kadam.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T00:01:20.457999"
+    },
+    {
+      "english": "I’m learning fast, and it shows.",
+      "punjabi": "ਮੈਂ ਤੇਜ਼ ਸਿੱਖ ਰਿਹਾ ਹਾਂ, ਤੇ ਦਿਖਦਾ ਹੈ।",
+      "transliteration": "Main tez sikh reha haan, te dikhda hai.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T00:01:20.458010"
+    },
+    {
+      "english": "My Punjabi is improving, slowly but sure.",
+      "punjabi": "ਮੇਰਾ ਪੰਜਾਬੀ ਸੁਧਰ ਰਿਹਾ ਹੈ, ਹੌਲੀ ਹੌਲੀ ਪਰ ਪੱਕਾ।",
+      "transliteration": "Mera punjabi sudhar reha hai, holi holi par pakka.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T00:01:20.458012"
+    },
+    {
+      "english": "I’ll get it, even if slowly.",
+      "punjabi": "ਮੈਨੂੰ ਸਮਝ ਆ ਜਾਵੇਗੀ, ਭਾਵੇਂ ਹੌਲੀ ਹੌਲੀ।",
+      "transliteration": "Mainu samajh aa jaavegi, bhaavein holi holi.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T00:01:20.458014"
+    },
+    {
+      "english": "Today I’ll speak, even with mistakes.",
+      "punjabi": "ਅੱਜ ਮੈਂ ਬੋਲਾਂਗਾ, ਭਾਵੇਂ ਗਲਤੀਆਂ ਹੋਣ।",
+      "transliteration": "Aaj main bolanga, bhaavein galtiyaan hon.",
+      "category": "Confidence",
+      "generated_at": "2026-11-22T00:01:20.458015"
     }
   ],
-  "last_updated": "2026-11-21T22:03:38.906817"
+  "last_updated": "2026-11-22T00:01:20.458017"
 }
