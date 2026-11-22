@@ -2169,7 +2169,42 @@
       "transliteration": "Merā dil haulī-haulī, surakhī’āt baith jāndā hai.",
       "category": "Inner Peace",
       "generated_at": "2026-11-22T18:46:58.837924"
+    },
+    {
+      "english": "What time is it, please?",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ, ਸਮਾਂ ਕਿੰਨਾ ਹੋਇਆ ਹੈ?",
+      "transliteration": "kirpa karke, samaan kinna hoya hai?",
+      "category": "Time",
+      "generated_at": "2026-11-22T20:32:10.265054"
+    },
+    {
+      "english": "It’s 7 o’clock right now.",
+      "punjabi": "ਹੁਣ ਸੱਤ ਵਜੇ ਹਨ।",
+      "transliteration": "hun sat vajay han.",
+      "category": "Time",
+      "generated_at": "2026-11-22T20:32:10.265068"
+    },
+    {
+      "english": "I’m running late, sorry.",
+      "punjabi": "ਮੈਂ ਦੇਰ ਕਰ ਰਿਹਾ ਹਾਂ, ਮੁਆਫ਼ ਕਰਨਾ।",
+      "transliteration": "main der kar reha haan, maaf karna.",
+      "category": "Time",
+      "generated_at": "2026-11-22T20:32:10.265069"
+    },
+    {
+      "english": "Can we meet at 5?",
+      "punjabi": "ਕੀ ਅਸੀਂ ਪੰਜ ਵਜੇ ਮਿਲ ਸਕਦੇ ਹਾਂ?",
+      "transliteration": "ki asin panj vajay mil sakde haan?",
+      "category": "Time",
+      "generated_at": "2026-11-22T20:32:10.265070"
+    },
+    {
+      "english": "Wait a minute, please.",
+      "punjabi": "ਇੱਕ ਮਿੰਟ ਰੁੱਕੋ, ਕਿਰਪਾ ਕਰਕੇ।",
+      "transliteration": "ik mint ruko, kirpa karke.",
+      "category": "Time",
+      "generated_at": "2026-11-22T20:32:10.265071"
     }
   ],
-  "last_updated": "2026-11-22T18:46:58.837926"
+  "last_updated": "2026-11-22T20:32:10.265072"
 }
