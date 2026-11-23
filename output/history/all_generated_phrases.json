@@ -2239,7 +2239,42 @@
       "transliteration": "ki tusi hun abhyaas layi taiyar ho",
       "category": "Sports",
       "generated_at": "2026-11-22T22:19:37.134600"
+    },
+    {
+      "english": "Hey! What’s happening today, friend?",
+      "punjabi": "ਹੇ! ਅੱਜ ਕੀ ਚੱਲ ਰਿਹਾ ਹੈ, ਦੋਸਤ?",
+      "transliteration": "Hey! aaj ki chall reha hai, dost?",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T00:35:02.130911"
+    },
+    {
+      "english": "Hi, nice to see you again!",
+      "punjabi": "ਹਾਇ, ਤੁਹਾਨੂੰ ਮੁੜ ਦੇਖ ਕੇ ਚੰਗਾ ਲੱਗਿਆ!",
+      "transliteration": "Hāi, tuhānuṁ muṛ dekh ke changā laggiā!",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T00:35:02.130927"
+    },
+    {
+      "english": "Hello, hope you’re doing well today.",
+      "punjabi": "ਨਮਸਤੇ, ਉਮੀਦ ਹੈ ਤੁਸੀਂ ਅੱਜ ਠੀਕ ਹੋ।",
+      "transliteration": "Namsate, ummīd hai tusīṁ ajj ṭhīk ho.",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T00:35:02.130929"
+    },
+    {
+      "english": "Good morning! How’s your morning going?",
+      "punjabi": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ! ਤੁਹਾਡੀ ਸਵੇਰ ਕਿਵੇਂ ਜਾ ਰਹੀ ਹੈ?",
+      "transliteration": "Sat srī akāl! tuhāḍī saver kivēṁ jā rahī hai?",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T00:35:02.130931"
+    },
+    {
+      "english": "Hey there, are you up and about?",
+      "punjabi": "ਹੈਲੋ, ਤੁਸੀਂ ਜਾਗ ਕੇ ਰੁਝੇ ਹੋ?",
+      "transliteration": "Hello, tusīṁ jāg ke ru_jhe ho?",
+      "category": "Greetings",
+      "generated_at": "2026-11-23T00:35:02.130932"
     }
   ],
-  "last_updated": "2026-11-22T22:19:37.134602"
+  "last_updated": "2026-11-23T00:35:02.130934"
 }
