@@ -2274,7 +2274,42 @@
       "transliteration": "Hello, tusīṁ jāg ke ru_jhe ho?",
       "category": "Greetings",
       "generated_at": "2026-11-23T00:35:02.130932"
+    },
+    {
+      "english": "Where is the station exit, please?",
+      "punjabi": "ਸਟੇਸ਼ਨ ਦਾ ਬਾਹਰਲਾ ਰਸਤਾ ਕਿੱਥੇ ਹੈ ਜੀ?",
+      "transliteration": "Station da baharla rasta kithhe hai ji?",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:31:38.107647"
+    },
+    {
+      "english": "Can I get a window seat, please?",
+      "punjabi": "ਕੀ ਮੈਂ ਖਿੜਕੀ ਵਾਲੀ ਸੀਟ ਲੈ ਸਕਦਾ ਹਾਂ ਜੀ?",
+      "transliteration": "Ki main khidki vali seat lai sakda han ji?",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:31:38.107662"
+    },
+    {
+      "english": "How long does it take to airport?",
+      "punjabi": "ਹਵਾਈ ਅੱਡੇ ਤੱਕ ਕਿੰਨਾ ਸਮਾਂ ਲੱਗਦਾ ਹੈ?",
+      "transliteration": "Havaai adde takk kinna samaa lagda hai?",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:31:38.107663"
+    },
+    {
+      "english": "I need a taxi to downtown.",
+      "punjabi": "ਮੈਨੂੰ ਡਾਊਨਟਾਊਨ ਲਈ ਟੈਕਸੀ ਚਾਹੀਦੀ ਹੈ।",
+      "transliteration": "Mainu downtown layi taxi chahidi hai.",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:31:38.107664"
+    },
+    {
+      "english": "Please take me to this address.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਇਸ ਪਤੇ ਤੇ ਲੈ ਜਾਓ।",
+      "transliteration": "Kirpa karke mainu is pate te lai jao.",
+      "category": "Travel",
+      "generated_at": "2026-11-23T04:31:38.107665"
     }
   ],
-  "last_updated": "2026-11-23T00:35:02.130934"
+  "last_updated": "2026-11-23T04:31:38.107667"
 }
