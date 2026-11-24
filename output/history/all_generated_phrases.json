@@ -2379,7 +2379,42 @@
       "transliteration": "Meri pichh dard kardi hai, main theek nahĩ.",
       "category": "Body Parts",
       "generated_at": "2026-11-24T01:24:26.262927"
+    },
+    {
+      "english": "I study a little every day,",
+      "punjabi": "ਮੈਂ ਹਰ ਰੋਜ਼ ਥੋੜ੍ਹਾ ਪੜ੍ਹਦਾ ਹਾਂ,",
+      "transliteration": "Main har roz thoda padhda haan,",
+      "category": "Education",
+      "generated_at": "2026-11-24T03:11:26.032181"
+    },
+    {
+      "english": "Can you explain this lesson, please?",
+      "punjabi": "ਕੀ ਤੁਸੀਂ ਇਹ ਪਾਠ ਸਮਝਾ ਸਕਦੇ ਹੋ, ਜੀ?",
+      "transliteration": "Ki tusi eh paath samjha sakde ho, ji?",
+      "category": "Education",
+      "generated_at": "2026-11-24T03:11:26.032197"
+    },
+    {
+      "english": "I have homework tonight,",
+      "punjabi": "ਮੇਰੇ ਕੋਲ ਅੱਜ ਰਾਤ ਹੋਮਵਰਕ ਹੈ,",
+      "transliteration": "Mere kol ajj raat homework hai,",
+      "category": "Education",
+      "generated_at": "2026-11-24T03:11:26.032199"
+    },
+    {
+      "english": "The teacher speaks slowly, thank you.",
+      "punjabi": "ਅਧਿਆਪਕ ਹੌਲੀ ਬੋਲਦੇ ਹਨ, ਧੰਨਵਾਦ।",
+      "transliteration": "Adhyaapak hully bolde han, dhanvaad.",
+      "category": "Education",
+      "generated_at": "2026-11-24T03:11:26.032200"
+    },
+    {
+      "english": "We practice speaking in class,",
+      "punjabi": "ਅਸੀਂ ਕਲਾਸ ਵਿੱਚ ਬੋਲਣਾ ਅਭਿਆਸ ਕਰਦੇ ਹਾਂ,",
+      "transliteration": "Asi class vich bolna abhyaas karde haan,",
+      "category": "Education",
+      "generated_at": "2026-11-24T03:11:26.032202"
     }
   ],
-  "last_updated": "2026-11-24T01:24:26.262928"
+  "last_updated": "2026-11-24T03:11:26.032203"
 }
