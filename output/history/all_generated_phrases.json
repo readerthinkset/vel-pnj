@@ -2484,7 +2484,42 @@
       "transliteration": "Mera lahiza sudhar reha hai, haulee-haulee.",
       "category": "Growth",
       "generated_at": "2026-11-24T07:25:29.896895"
+    },
+    {
+      "english": "Yes, I understand you.",
+      "punjabi": "ਹਾਂ, ਮੈਂ ਤੁਹਾਨੂੰ ਸਮਝ ਗਿਆ",
+      "transliteration": "Hā̃, main tuhā̃nū samajh giā/giī.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-24T21:39:35.593459"
+    },
+    {
+      "english": "No worries, it’s okay.",
+      "punjabi": "ਕੋਈ ਗੱਲ ਨਹੀਂ, ਠੀਕ ਹੈ।",
+      "transliteration": "Koi gall nahī̃, ṭhīk hai.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-24T21:39:35.593474"
+    },
+    {
+      "english": "Come here, please.",
+      "punjabi": "ਜੀ, ਇੱਥੇ ਆਓ ਜੀ।",
+      "transliteration": "Jī, iṯhe āo jī.",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-24T21:39:35.593476"
+    },
+    {
+      "english": "What time is it?",
+      "punjabi": "ਹੁਣ ਕਿੰਨਾ ਵੱਜਿਆ ਹੈ?",
+      "transliteration": "Huṇ kiṇnā vājiā hai?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-24T21:39:35.593477"
+    },
+    {
+      "english": "Where is the bathroom?",
+      "punjabi": "ਬਾਥਰੂਮ ਕਿੱਥੇ ਹੈ?",
+      "transliteration": "Bāthrūm kiṯhe hai?",
+      "category": "Common Expressions",
+      "generated_at": "2026-11-24T21:39:35.593477"
     }
   ],
-  "last_updated": "2026-11-24T07:25:29.896898"
+  "last_updated": "2026-11-24T21:39:35.593479"
 }
