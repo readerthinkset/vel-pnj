@@ -2519,7 +2519,42 @@
       "transliteration": "Bāthrūm kiṯhe hai?",
       "category": "Common Expressions",
       "generated_at": "2026-11-24T21:39:35.593477"
+    },
+    {
+      "english": "I feel okay, just a bit tired.",
+      "punjabi": "ਮੈਨੂੰ ਠੀਕ ਲੱਗ ਰਿਹਾ ਹੈ, ਥੋੜ੍ਹਾ ਥੱਕਾ ਵੀ ਹਾਂ।",
+      "transliteration": "Mainu theek lagg reha hai, thodha thakka vi haan.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:21:02.352309"
+    },
+    {
+      "english": "Right now, I feel stressed about work.",
+      "punjabi": "ਹੁਣੇ ਮੈਨੂੰ ਕੰਮ ਦੀ ਟੈਂਸ਼ਨ ਲੱਗ ਰਹੀ ਹੈ।",
+      "transliteration": "Huney mainu kann di tension lagg rahi hai.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:21:02.352323"
+    },
+    {
+      "english": "I feel relieved, that news is over.",
+      "punjabi": "ਮੈਨੂੰ ਰਾਹਤ ਮਿਲੀ ਹੈ, ਉਹ ਗੱਲ ਖਤਮ ਹੋ ਗਈ।",
+      "transliteration": "Mainu rahat milyi hai, o gall khatam ho gayi.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:21:02.352326"
+    },
+    {
+      "english": "I feel lonely, could you talk?",
+      "punjabi": "ਮੈਨੂੰ ਇਕੱਲਾਪਣ ਲੱਗ ਰਿਹਾ ਹੈ, ਗੱਲ ਕਰੋਂਗੇ?",
+      "transliteration": "Mainu ikkalaapann lagg reha hai, gall karonge?",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:21:02.352327"
+    },
+    {
+      "english": "I feel grateful, thank you for helping.",
+      "punjabi": "ਮੈਂ ਸ਼ੁਕਰਗੁਜ਼ਾਰ ਹਾਂ, ਮਦਦ ਕਰਨ ਲਈ ਧੰਨਵਾਦ।",
+      "transliteration": "Main shukarguzar haan, madad karan layi dhanvaad.",
+      "category": "Feelings",
+      "generated_at": "2026-11-24T23:21:02.352329"
     }
   ],
-  "last_updated": "2026-11-24T21:39:35.593479"
+  "last_updated": "2026-11-24T23:21:02.352331"
 }
