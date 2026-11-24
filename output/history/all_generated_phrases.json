@@ -2344,7 +2344,42 @@
       "transliteration": "Apna dhyaan rakh, kirpa karke.",
       "category": "Relationships",
       "generated_at": "2026-11-23T23:02:10.262269"
+    },
+    {
+      "english": "My head hurts, today.",
+      "punjabi": "ਮੇਰੇ ਸਿਰ ਵਿੱਚ ਦਰਦ ਹੈ, ਅੱਜ।",
+      "transliteration": "Mere sir vich dard hai, ajj.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T01:24:26.262910"
+    },
+    {
+      "english": "I hit my knee, sorry.",
+      "punjabi": "ਮੇਰੀ ਗੋਡੇ 'ਤੇ ਵੱਜ ਗਿਆ, ਮਾਫ਼ ਕਰਨਾ।",
+      "transliteration": "Meri goḍe te vajj gaya, maaf karo.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T01:24:26.262924"
+    },
+    {
+      "english": "Your eyes look tired, please rest.",
+      "punjabi": "ਤੁਹਾਡੀਆਂ ਅੱਖਾਂ ਥੱਕੀਆਂ ਲੱਗਦੀਆਂ ਨੇ, ਆਰਾਮ ਕਰੋ।",
+      "transliteration": "Tuhadiyan akhā̃ thakkiyan lagdiyan ne, aaram karo.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T01:24:26.262925"
+    },
+    {
+      "english": "Cover your mouth, please.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਆਪਣਾ ਮੂੰਹ ਢੱਕੋ।",
+      "transliteration": "Kirpa karke apna mooh dhakko.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T01:24:26.262926"
+    },
+    {
+      "english": "My back is sore, I’m not okay.",
+      "punjabi": "ਮੇਰੀ ਪਿੱਠ ਦਰਦ ਕਰਦੀ ਹੈ, ਮੈਂ ਠੀਕ ਨਹੀਂ।",
+      "transliteration": "Meri pichh dard kardi hai, main theek nahĩ.",
+      "category": "Body Parts",
+      "generated_at": "2026-11-24T01:24:26.262927"
     }
   ],
-  "last_updated": "2026-11-23T23:02:10.262270"
+  "last_updated": "2026-11-24T01:24:26.262928"
 }
