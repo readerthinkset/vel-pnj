@@ -2554,7 +2554,42 @@
       "transliteration": "Main shukarguzar haan, madad karan layi dhanvaad.",
       "category": "Feelings",
       "generated_at": "2026-11-24T23:21:02.352329"
+    },
+    {
+      "english": "I’m ready to start, let’s go.",
+      "punjabi": "ਮੈਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਤਿਆਰ ਹਾਂ, ਚੱਲੋ।",
+      "transliteration": "Main shuru karan lai tyaar han, chalo.",
+      "category": "Work",
+      "generated_at": "2026-11-25T01:16:29.884121"
+    },
+    {
+      "english": "Where should I set up my laptop?",
+      "punjabi": "ਮੈਂ ਆਪਣਾ ਲੈਪਟਾਪ ਕਿੱਥੇ ਸੈੱਟ ਕਰਾਂ?",
+      "transliteration": "Main apna laptop kithe set karaan?",
+      "category": "Work",
+      "generated_at": "2026-11-25T01:16:29.884135"
+    },
+    {
+      "english": "Can you send the document to me?",
+      "punjabi": "ਕੀ ਤੁਸੀਂ ਮੈਨੂੰ ਦਸਤਾਵੇਜ਼ ਭੇਜ ਸਕਦੇ ਹੋ?",
+      "transliteration": "Ki tusi mainu dastavej bhij sakde ho?",
+      "category": "Work",
+      "generated_at": "2026-11-25T01:16:29.884137"
+    },
+    {
+      "english": "Let’s confirm the numbers, please.",
+      "punjabi": "ਚਲੋ ਨੰਬਰ ਕਨਫ਼ਰਮ ਕਰ ਲਈਏ, ਜੀ।",
+      "transliteration": "Chalo nambar confirm kar layie, ji.",
+      "category": "Work",
+      "generated_at": "2026-11-25T01:16:29.884139"
+    },
+    {
+      "english": "I’ll update you after I check.",
+      "punjabi": "ਮੈਂ ਚੈੱਕ ਕਰ ਕੇ ਤੁਹਾਨੂੰ ਅਪਡੇਟ ਕਰਾਂਗਾ।",
+      "transliteration": "Main check kar ke tuhanu update karanga.",
+      "category": "Work",
+      "generated_at": "2026-11-25T01:16:29.884140"
     }
   ],
-  "last_updated": "2026-11-24T23:21:02.352331"
+  "last_updated": "2026-11-25T01:16:29.884142"
 }
