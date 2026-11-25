@@ -2659,7 +2659,42 @@
       "transliteration": "ghuḥṛā piā hoveyā hai, door nahin dissda",
       "category": "Weather",
       "generated_at": "2026-11-25T05:56:04.772179"
+    },
+    {
+      "english": "I like this red color, so much.",
+      "punjabi": "ਮੈਨੂੰ ਇਹ ਲਾਲ ਰੰਗ ਬਹੁਤ ਪਸੰਦ ਹੈ।",
+      "transliteration": "Mainū ih lāl rang bahut pasand hai.",
+      "category": "Colors",
+      "generated_at": "2026-11-25T20:47:08.957354"
+    },
+    {
+      "english": "The sky looks blue today, really clear.",
+      "punjabi": "ਅੱਜ ਆਸਮਾਨ ਨੀਲਾ ਲੱਗਦਾ ਹੈ, ਬਹੁਤ ਸਾਫ਼।",
+      "transliteration": "Aaj āsmān nīlā lagdā hai, bahut saph.",
+      "category": "Colors",
+      "generated_at": "2026-11-25T20:47:08.957368"
+    },
+    {
+      "english": "Her dress is green, it’s beautiful.",
+      "punjabi": "ਉਸਦਾ ਕੱਪੜਾ ਹਰਾ ਹੈ, ਬਹੁਤ ਸੋਹਣਾ।",
+      "transliteration": "Usdā kappṛā harā hai, bahut sohṇā.",
+      "category": "Colors",
+      "generated_at": "2026-11-25T20:47:08.957370"
+    },
+    {
+      "english": "This wall is white, please don’t paint.",
+      "punjabi": "ਇਹ ਕੰਧ ਸਫ਼ੈਦ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਨਾ ਰੰਗੋ।",
+      "transliteration": "Ih kadhh safēid hai, kirpā karke nā rangō.",
+      "category": "Colors",
+      "generated_at": "2026-11-25T20:47:08.957371"
+    },
+    {
+      "english": "That shirt is black, looks sharp.",
+      "punjabi": "ਉਹ ਕਮੀਜ਼ ਕਾਲੀ ਹੈ, ਬਹੁਤ ਵਧੀਆ ਲੱਗਦੀ।",
+      "transliteration": "Uh kamīz kālī hai, bahut vadhiyā lagdī.",
+      "category": "Colors",
+      "generated_at": "2026-11-25T20:47:08.957372"
     }
   ],
-  "last_updated": "2026-11-25T05:56:04.772181"
+  "last_updated": "2026-11-25T20:47:08.957373"
 }
