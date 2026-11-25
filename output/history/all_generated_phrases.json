@@ -2624,7 +2624,42 @@
       "transliteration": "Apne vichaaran nu langhan deo, badalan vaang.",
       "category": "Mindfulness",
       "generated_at": "2026-11-25T03:18:28.933695"
+    },
+    {
+      "english": "It’s getting warmer, quickly today.",
+      "punjabi": "ਅੱਜ ਤੇਜ਼ੀ ਨਾਲ ਗਰਮੀ ਵੱਧ ਰਹੀ ਹੈ।",
+      "transliteration": "aaj tezi naal garmi vad’ rahi hai",
+      "category": "Weather",
+      "generated_at": "2026-11-25T05:56:04.772162"
+    },
+    {
+      "english": "The sun is out, finally.",
+      "punjabi": "ਆਖ਼ਿਰਕਾਰ ਧੁੱਪ ਨਿਕਲ ਆਈ ਹੈ।",
+      "transliteration": "aakhirkaar dhup nikl aayi hai",
+      "category": "Weather",
+      "generated_at": "2026-11-25T05:56:04.772174"
+    },
+    {
+      "english": "I can smell fresh rain.",
+      "punjabi": "ਮੈਨੂੰ ਤਾਜ਼ਾ ਮੀਂਹ ਦੀ ਮਹਿਕ ਆ ਰਹੀ ਹੈ।",
+      "transliteration": "mainū taaza meeh di mahik aa rahi hai",
+      "category": "Weather",
+      "generated_at": "2026-11-25T05:56:04.772175"
+    },
+    {
+      "english": "The sky looks clear and blue.",
+      "punjabi": "ਅਸਮਾਨ ਸਾਫ਼ ਤੇ ਨੀਲਾ ਲੱਗ ਰਿਹਾ ਹੈ।",
+      "transliteration": "asmaan saaf te neela lagg rihā hai",
+      "category": "Weather",
+      "generated_at": "2026-11-25T05:56:04.772177"
+    },
+    {
+      "english": "It’s foggy, I can’t see far.",
+      "punjabi": "ਘੂਹੜਾ ਪਿਆ ਹੋਇਆ ਹੈ, ਦੂਰ ਨਹੀਂ ਦਿਸਦਾ।",
+      "transliteration": "ghuḥṛā piā hoveyā hai, door nahin dissda",
+      "category": "Weather",
+      "generated_at": "2026-11-25T05:56:04.772179"
     }
   ],
-  "last_updated": "2026-11-25T03:18:28.933697"
+  "last_updated": "2026-11-25T05:56:04.772181"
 }
