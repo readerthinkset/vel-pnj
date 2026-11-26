@@ -2764,7 +2764,42 @@
       "transliteration": "mainu kujh chaah chahidi hai, ji",
       "category": "Basic Phrases",
       "generated_at": "2026-11-26T00:51:28.451719"
+    },
+    {
+      "english": "Listen, the leaves are rustling softly.",
+      "punjabi": "ਸੁਣੋ, ਪੱਤੇ ਹੌਲੀ ਹੌਲੀ ਖੜਕ ਰਹੇ ਹਨ।",
+      "transliteration": "Sun'ō, patte hōlī hōlī kharrak rahe han.",
+      "category": "Nature",
+      "generated_at": "2026-11-26T02:36:18.395776"
+    },
+    {
+      "english": "The wind is cool on my face.",
+      "punjabi": "ਹਵਾ ਮੇਰੇ ਚਿਹਰੇ ਤੇ ਠੰਡੀ ਲੱਗ ਰਹੀ ਹੈ।",
+      "transliteration": "Havā mere chehre te ṭhaṇḍī lagg rahī hai.",
+      "category": "Nature",
+      "generated_at": "2026-11-26T02:36:18.395787"
+    },
+    {
+      "english": "Clouds are drifting, slowly across the hills.",
+      "punjabi": "ਬੱਦਲ ਹੌਲੀ ਹੌਲੀ ਪਹਾੜੀਆਂ ਵੱਲ ਸਰਕ ਰਹੇ ਹਨ।",
+      "transliteration": "Baddal hōlī hōlī pahāṛīāṁ val sarak rahe han.",
+      "category": "Nature",
+      "generated_at": "2026-11-26T02:36:18.395788"
+    },
+    {
+      "english": "That sunset is absolutely beautiful, tonight.",
+      "punjabi": "ਅੱਜ ਰਾਤ ਉਹ ਸੂਰਜ-ਡੁੱਬਣਾ ਬਿਲਕੁਲ ਸੋਹਣਾ ਹੈ।",
+      "transliteration": "Ajj rāt uh sūraj-dubbṇā bilkul sohaṇā hai.",
+      "category": "Nature",
+      "generated_at": "2026-11-26T02:36:18.395789"
+    },
+    {
+      "english": "The air smells like wet earth.",
+      "punjabi": "ਹਵਾ ਗਿੱਲੀ ਮਿੱਟੀ ਵਰਗੀ ਮਹਿਕਦੀ ਹੈ।",
+      "transliteration": "Havā gillī miṭṭī vargī mahikdī hai.",
+      "category": "Nature",
+      "generated_at": "2026-11-26T02:36:18.395790"
     }
   ],
-  "last_updated": "2026-11-26T00:51:28.451721"
+  "last_updated": "2026-11-26T02:36:18.395791"
 }
