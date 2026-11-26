@@ -2799,7 +2799,42 @@
       "transliteration": "Havā gillī miṭṭī vargī mahikdī hai.",
       "category": "Nature",
       "generated_at": "2026-11-26T02:36:18.395790"
+    },
+    {
+      "english": "Please turn left at the traffic lights.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਟ੍ਰੈਫਿਕ ਲਾਈਟਾਂ ਤੇ ਖੱਬੇ ਮੁੜੋ।",
+      "transliteration": "kirpā karke ṭraifik laāiṭā̃ te khabbe mẉṛo",
+      "category": "Directions",
+      "generated_at": "2026-11-26T05:47:51.732603"
+    },
+    {
+      "english": "Go left, right after this shop.",
+      "punjabi": "ਇਸ ਦੁਕਾਨ ਤੋਂ ਬਾਅਦ ਖੱਬੇ ਜਾਓ।",
+      "transliteration": "is dukān tõ bā‘ad khabbe jāo",
+      "category": "Directions",
+      "generated_at": "2026-11-26T05:47:51.732620"
+    },
+    {
+      "english": "Take a right at the roundabout.",
+      "punjabi": "ਰਾਊਂਡਅਬਾਊਟ ਤੇ ਸੱਜੇ ਮੁੜੋ।",
+      "transliteration": "rā‘uṇḍabā‘uṭ te sajje mẉṛo",
+      "category": "Directions",
+      "generated_at": "2026-11-26T05:47:51.732623"
+    },
+    {
+      "english": "Head right, then follow the main road.",
+      "punjabi": "ਸੱਜੇ ਵੱਲ ਜਾਓ, ਫਿਰ ਮੁੱਖ ਸੜਕ ਤੋ̃ ਪਿੱਛੇ ਚੱਲੋ।",
+      "transliteration": "sajje vall jāo, phir mukh saṛak tõ pichhe challo",
+      "category": "Directions",
+      "generated_at": "2026-11-26T05:47:51.732624"
+    },
+    {
+      "english": "Walk straight to the big gate.",
+      "punjabi": "ਵੱਡੇ ਫਾਟਕ ਤੱਕ ਸਿੱਧੇ ਚੱਲੋ।",
+      "transliteration": "vaḍḍe phāṭak takk siḍhe challo",
+      "category": "Directions",
+      "generated_at": "2026-11-26T05:47:51.732625"
     }
   ],
-  "last_updated": "2026-11-26T02:36:18.395791"
+  "last_updated": "2026-11-26T05:47:51.732627"
 }
