@@ -2729,7 +2729,42 @@
       "transliteration": "Chiṁtā nā karo, shāṁtī nāl uḍīk karo.",
       "category": "Patience",
       "generated_at": "2026-11-25T22:53:17.576209"
+    },
+    {
+      "english": "Please say that again slowly.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਫਿਰ ਹੌਲੀ ਬੋਲੋ।",
+      "transliteration": "kirpa karke eh phir haughli bolo",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T00:51:28.451703"
+    },
+    {
+      "english": "I don’t understand, sorry.",
+      "punjabi": "ਮੈਨੂੰ ਸਮਝ ਨਹੀਂ ਆਈ, ਮਾਫ਼ ਕਰਨਾ।",
+      "transliteration": "mainu samajh nahi aayi, maaf karna",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T00:51:28.451714"
+    },
+    {
+      "english": "Can you help me, please?",
+      "punjabi": "ਕੀ ਤੁਸੀਂ ਮੇਰੀ ਮਦਦ ਕਰ ਸਕਦੇ ਹੋ?",
+      "transliteration": "ki tusi meri madad kar sakde ho",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T00:51:28.451716"
+    },
+    {
+      "english": "How much is this?",
+      "punjabi": "ਇਹ ਕਿੰਨੇ ਦਾ ਹੈ?",
+      "transliteration": "eh kinne da hai",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T00:51:28.451717"
+    },
+    {
+      "english": "I would like some tea, please.",
+      "punjabi": "ਮੈਨੂੰ ਕੁਝ ਚਾਹ ਚਾਹੀਦੀ ਹੈ, ਜੀ।",
+      "transliteration": "mainu kujh chaah chahidi hai, ji",
+      "category": "Basic Phrases",
+      "generated_at": "2026-11-26T00:51:28.451719"
     }
   ],
-  "last_updated": "2026-11-25T22:53:17.576210"
+  "last_updated": "2026-11-26T00:51:28.451721"
 }
