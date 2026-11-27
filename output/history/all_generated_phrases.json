@@ -2925,7 +2925,28 @@
       "transliteration": "Main isnu sunna rok nahi sakda.",
       "category": "Music",
       "generated_at": "2026-11-27T11:38:08.990520"
+    },
+    {
+      "english": "Thanks for listening to me today.",
+      "punjabi": "ਅੱਜ ਮੇਰੀ ਗੱਲ ਸੁਣਨ ਲਈ ਧੰਨਵਾਦ।",
+      "transliteration": "Aaj meri gal sunan layi dhannvaad.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:26:07.545774"
+    },
+    {
+      "english": "I’m thankful for your quick help.",
+      "punjabi": "ਤੁਹਾਡੀ ਤੁਰੰਤ ਮਦਦ ਲਈ ਮੈਂ ਧੰਨਵਾਦੀ ਹਾਂ।",
+      "transliteration": "Tuhadi turant madad layi main dhannvaadi haan.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:26:07.545787"
+    },
+    {
+      "english": "Thank you, I feel much better now.",
+      "punjabi": "ਧੰਨਵਾਦ, ਹੁਣ ਮੈਨੂੰ ਬਹੁਤ ਚੰਗਾ ਲੱਗ ਰਿਹਾ।",
+      "transliteration": "Dhannvaad, hun mainu bahut changa lag reha.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-27T19:26:07.545789"
     }
   ],
-  "last_updated": "2026-11-27T11:38:08.990522"
+  "last_updated": "2026-11-27T19:26:07.545790"
 }
