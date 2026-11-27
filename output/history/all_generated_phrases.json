@@ -2904,7 +2904,28 @@
       "transliteration": "Kī ēh sakārf iṇnā garam hai?",
       "category": "Clothes",
       "generated_at": "2026-11-26T22:42:13.705163"
+    },
+    {
+      "english": "Could you play the radio station?",
+      "punjabi": "ਕੀ ਤੁਸੀਂ ਰੇਡੀਓ ਸਟੇਸ਼ਨ ਚਲਾ ਸਕਦੇ ਹੋ?",
+      "transliteration": "Ki tusi radio station chala sakde ho?",
+      "category": "Music",
+      "generated_at": "2026-11-27T11:38:08.990507"
+    },
+    {
+      "english": "Which song is this, do you know?",
+      "punjabi": "ਇਹ ਕਿਹੜਾ ਗੀਤ ਹੈ, ਤੁਹਾਨੂੰ ਪਤਾ ਹੈ?",
+      "transliteration": "Eh kihda geet hai, tuhanu pata hai?",
+      "category": "Music",
+      "generated_at": "2026-11-27T11:38:08.990518"
+    },
+    {
+      "english": "I can't stop listening to this.",
+      "punjabi": "ਮੈਂ ਇਸਨੂੰ ਸੁਣਨਾ ਰੋਕ ਨਹੀਂ ਸਕਦਾ।",
+      "transliteration": "Main isnu sunna rok nahi sakda.",
+      "category": "Music",
+      "generated_at": "2026-11-27T11:38:08.990520"
     }
   ],
-  "last_updated": "2026-11-26T22:42:13.705164"
+  "last_updated": "2026-11-27T11:38:08.990522"
 }
