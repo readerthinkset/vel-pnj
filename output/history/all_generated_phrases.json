@@ -2946,7 +2946,28 @@
       "transliteration": "Dhannvaad, hun mainu bahut changa lag reha.",
       "category": "Gratitude",
       "generated_at": "2026-11-27T19:26:07.545789"
+    },
+    {
+      "english": "Can I get one more apple, please?",
+      "punjabi": "ਕੀ ਮੈਂ ਇੱਕ ਹੋਰ ਸੇਬ ਲੈ ਸਕਦਾ ਹਾਂ, ਕਿਰਪਾ ਕਰਕੇ?",
+      "transliteration": "Ki main ik hor seb lai sakda haan, kirpa karke?",
+      "category": "Numbers",
+      "generated_at": "2026-11-28T03:40:03.989945"
+    },
+    {
+      "english": "Please bring two glasses of juice.",
+      "punjabi": "ਕਿਰਪਾ ਕਰਕੇ ਦੋ ਗਲਾਸ ਜੂਸ ਲਿਆਓ।",
+      "transliteration": "Kirpa karke do gilās jus layo.",
+      "category": "Numbers",
+      "generated_at": "2026-11-28T03:40:03.989957"
+    },
+    {
+      "english": "Give me three bananas, please.",
+      "punjabi": "ਮੈਨੂੰ ਤਿੰਨ ਕੇਲੇ ਦੇ ਦਿਓ, ਕਿਰਪਾ ਕਰਕੇ।",
+      "transliteration": "Mainu tin keley de deo, kirpa karke.",
+      "category": "Numbers",
+      "generated_at": "2026-11-28T03:40:03.989958"
     }
   ],
-  "last_updated": "2026-11-27T19:26:07.545790"
+  "last_updated": "2026-11-28T03:40:03.989960"
 }
